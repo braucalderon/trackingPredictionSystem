@@ -1,4 +1,5 @@
-# Edit the document manually without using git
-`click on the pen image, located on the top right side of the document`
-`Make the changes and then scroll down the document`
-`Click commit changes`
+### Edit the document manually without using git
+<p>Click on the pen image, located on the top right side of the documen</p>
+<p>Make the charges and the scroll down the document</p>
+<p>Click Commit Changes</p>
+
