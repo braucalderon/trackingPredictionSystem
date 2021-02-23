@@ -1,6 +1,8 @@
-# Getting Started using Git on Github
+# Software Engineering
 
-assumption: a project called `repo` already exists on the machine, and a new branch has been pushed to GitHub.com since the last time changes were made locally
+## Getting Started using Git on Github
+
+Assumption: a project called `repo` already exists on the machine, and a new branch has been pushed to GitHub.com since the last time changes were made locally
 
 ## Pushing updates remotely into GitHub using Git
 
