@@ -27,4 +27,10 @@ push changes to github
 
 More about [GitHub Guides](https://guides.github.com/)
 
+## React Tutorial for beginners 
+
+YouTube [Click Here](https://www.youtube.com/watch?v=DLX62G4lc44)
+
+Tutorial: [Intro to React](https://reactjs.org/tutorial/tutorial.html)
+
 
