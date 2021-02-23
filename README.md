@@ -31,8 +31,6 @@ More about [GitHub Guides](https://guides.github.com/)
 
 YouTube [Click Here](https://www.youtube.com/watch?v=DLX62G4lc44)
 
-## React Tutorial for beginners
-
 Tutorial: [Intro to React](https://reactjs.org/tutorial/tutorial.html)
 
 
