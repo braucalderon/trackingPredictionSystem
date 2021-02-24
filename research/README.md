@@ -6,11 +6,11 @@
 <p>Click Commit Changes</p>
 
 ---
-`Central Ohio Transit Authority`
+## Central Ohio Transit Authority
 
 COTA [Click Here](https://www.cota.com/data/)
 
-`Google Transit APIs`
+## Google Transit APIs
 
 GTFS [Click Here](https://developers.google.com/transit/gtfs)
 
