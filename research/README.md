@@ -6,7 +6,7 @@
 <p>Click Commit Changes</p>
 
 ---
-COTA [Click Here] (https://www.cota.com/data/)
+COTA [Click Here](https://www.cota.com/data/)
 <p></p>
 <p></p>
 <p></p>
