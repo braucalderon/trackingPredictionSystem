@@ -7,7 +7,7 @@
 
 ## Tasks
 
-<p><spam stlye="bold">Name: </spam>Braulio <spam stlye="bold">Task: </spam> frontEnd </p>
+`Name:`Braulio `Task:` frontEnd
 <p>Name:   Task: Presentation </p>
 <p>Name:   Task: Research</p>
 <p>Name:   Task: Design</p>
