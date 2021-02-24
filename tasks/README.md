@@ -7,12 +7,12 @@
 
 ## Tasks
 
-`Name:` Braulio  `Task:` frontEnd <br/>
+`Name:` Braulio  `Task:` FrontEnd <br/>
 `Name:`   `Task:` Presentation <br/>
 `Name:`   `Task:` Research <br/>
 `Name:`   `Task:` Design <br/>
 `Name:`   `Task:` Testing <br/>
-`Name:`   `Task:` backEnd / firebase database <br/>
+`Name:`   `Task:` BackEnd / firebase database <br/>
 `Name:`   `Task:` Notes <br/>
 
 
