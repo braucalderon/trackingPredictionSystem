@@ -7,7 +7,7 @@
 
 ## Tasks
 
-<p>NAME: Braulio TASK: frontEnd </p>
+<p>NAME: Braulio    TASK: frontEnd </p>
 <p>NAME:   TASK: Presentation </p>
 <p>NAME:   TASK: Research</p>
 <p>NAME:   TASK: Design</p>
