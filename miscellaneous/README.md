@@ -7,13 +7,13 @@
 
 ## Tasks
 
-`Name:` Braulio  `Task:` frontEnd 
-`Name:`   `Task:` Presentation 
-`Name:`   `Task:` Research
-`Name:`   `Task:` Design
-`Name:`   `Task:` Testing
-`Name:`   `Task:` backEnd / firebase database
-`Name:`   `Task:` ? 
+`Name:` Braulio  `Task:` frontEnd <br/>
+`Name:`   `Task:` Presentation <br/>
+`Name:`   `Task:` Research <br/>
+`Name:`   `Task:` Design <br/>
+`Name:`   `Task:` Testing <br/>
+`Name:`   `Task:` backEnd / firebase database <br/>
+`Name:`   `Task:` ? <br/>
 
 
 ## Questions to ask:
