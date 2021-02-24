@@ -7,13 +7,13 @@
 
 ## Tasks
 
-<p>NAME: Braulio</p>  <p>TASK: frontEnd </p>
-<p>NAME:   TASK: Presentation </p>
-<p>NAME:   TASK: Research</p>
-<p>NAME:   TASK: Design</p>
-<p>NAME:   TASK: Testing</p>
-<p>NAME:   TASK: backEnd / firebase database</p>
-<p>NAME:   TASK: ? </p>
+<p><spam stlye="bold">Name: </spam>Braulio <spam stlye="bold">Task: </spam> frontEnd </p>
+<p>Name:   Task: Presentation </p>
+<p>Name:   Task: Research</p>
+<p>Name:   Task: Design</p>
+<p>Name:   Task: Testing</p>
+<p>Name:   Task: backEnd / firebase database</p>
+<p>Name:   Task: ? </p>
 
 
 ## Questions to ask:
