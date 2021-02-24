@@ -13,7 +13,7 @@
 `Name:`   `Task:` Design <br/>
 `Name:`   `Task:` Testing <br/>
 `Name:`   `Task:` backEnd / firebase database <br/>
-`Name:`   `Task:` ? <br/>
+`Name:`   `Task:` Notes <br/>
 
 
 ## Questions to ask:
