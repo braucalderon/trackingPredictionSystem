@@ -7,14 +7,11 @@
 
 ## Tasks
 
-`Name:` Braulio  `Task:` FrontEnd <br/>
-`Name:`   `Task:` Presentation <br/>
-`Name:`   `Task:` Research <br/>
-`Name:`   `Task:` Design <br/>
-`Name:`   `Task:` Testing <br/>
-`Name:`   `Task:` BackEnd / firebase database <br/>
-`Name:`   `Task:` Notes <br/>
-
+`Name:`Braulio`Task:`FrontEnd <br/>
+`Name:`Richard, Augusto`Task:`Presentation <br/>
+`Name:`David P`Task:`Research <br/>
+`Name:`Daniel L`Task:`Testing <br/>
+`Name:`Engels, Rafael`Task:` BackEnd / firebase database <br/>
 
 ## Questions to ask:
 
