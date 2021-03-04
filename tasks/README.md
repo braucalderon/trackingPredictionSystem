@@ -8,10 +8,10 @@
 ## Tasks
 
 `Name:`Braulio`Task:`FrontEnd <br/>
-`Name:`Richard, Augusto`Task:`Presentation <br/>
-`Name:`David P`Task:`Research <br/>
-`Name:`Daniel L`Task:`Testing <br/>
-`Name:`Engels, Rafael`Task:` BackEnd / firebase database <br/>
+`Name:`MD, Augusto`Task:`Presentation <br/>
+`Name:`David P, Daniel L`Task:`Research <br/>
+`Name:`Daniel L, David P`Task:`Testing <br/>
+`Name:`Richard, Engels, Rafael`Task:` BackEnd / firebase database <br/>
 
 ## Questions to ask:
 

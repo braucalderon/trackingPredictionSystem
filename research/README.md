@@ -14,7 +14,17 @@ COTA [Click Here](https://www.cota.com/data/)
 
 GTFS [Click Here](https://developers.google.com/transit/gtfs)
 
-<p></p>
+
+## Google Cloud Firestore
+
+Google Cloud Firestore [Click Here](https://cloud.google.com/community/tutorials/building-flask-api-with-cloud-firestore-and-deploying-to-cloud-run)
+
+
+## Flask React research
+
+Flask React [Click Here](https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project)
+
+
 <p></p>
 <p></p>
 <p></p>
