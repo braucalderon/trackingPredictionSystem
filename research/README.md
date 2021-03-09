@@ -29,7 +29,7 @@ Flask React [Click Here](https://blog.miguelgrinberg.com/post/how-to-create-a-re
 
 Python JSON write and read [Click Here](https://www.geeksforgeeks.org/reading-and-writing-json-to-a-file-in-python/)
 
-## Python REST API tutorial - Building a Flask REST API
+## Python REST API tutorials - Building a Flask REST API
 
 Flask REST API [Click Here](https://www.youtube.com/watch?v=GMppyAPbLYk) <br>
 REST API Crash Course [Click Here](https://www.youtube.com/watch?v=qbLc5a9jdXo)
