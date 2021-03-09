@@ -31,7 +31,7 @@ Python JSON write and read [Click Here](https://www.geeksforgeeks.org/reading-an
 
 ## Python REST API tutorial - Building a Flask REST API
 
-Flask REST API [Click Here](https://www.youtube.com/watch?v=GMppyAPbLYk)
+Flask REST API [Click Here](https://www.youtube.com/watch?v=GMppyAPbLYk) <br>
 REST API Crash Course [Click Here](https://www.youtube.com/watch?v=qbLc5a9jdXo)
 
 
