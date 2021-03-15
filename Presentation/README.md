@@ -1,4 +1,4 @@
-# Module Design
+# Presentation
 
 ## Edit the document manually
 <p>Click on the pen image, located on the top right side of the document</p>
