@@ -39,7 +39,7 @@ REST API Crash Course [Click Here](https://www.youtube.com/watch?v=qbLc5a9jdXo)
 
 GTFS data track system [Click Here](https://ably.com/blog/gtfs-data-track-transit-vehicles-realtime?utm_source=google-group&utm_medium=sc&utm_campaign=gtfs-tracking-vehicles)
 
-## Undersating the GTFS data file 
+## understanding the GTFS data file 
 https://developers.google.com/transit/gtfs/reference?csw=1
 
 
