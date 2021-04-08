@@ -1,3 +1,9 @@
+
+All original work done by Tom Lee, i (Rafael) made some chanegs to the code so it works with mysql connector and python 3.8
+
+The ogriginal projects github could be found at https://github.com/sbma44/py-gtfs-mysql. 
+
+
 GTFS MySQL IMPORT SCRIPT
 Author: Tom Lee (thomas.j.lee@gmail.com)
 
