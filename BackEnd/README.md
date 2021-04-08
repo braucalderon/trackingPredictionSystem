@@ -1,9 +1,7 @@
 
 ---
-<p>If you'll like to run a local mysql react app on your pc  </p>
-<p>and play around with Axois,Express, and mysql.Here are all the </p>
-<p>resources I used. I can walk anyone through the process</p>
-<p>if you like. </p>
+<p>If you would like to run a local mysql react app on your pc and play around with Axois,Express, and mysql. Here are all the resources I used. </p>
+<p>I can walk anyone through the process if you like. </p>
 <p></p>
 <p>Recourses:</p>
 <p></p>
