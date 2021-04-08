@@ -17,7 +17,9 @@ const db = mysql.createConnection({
 
 // gets the call to make a query
 app.get('/getBusStops',(req,res) => {
-    const origin = req.query.Origin;
+    // if passing a parameter with Axios use res.query 
+    // to get the parameter
+    const origin = req.query.Origin; 
 
     db.query(
        'SELECT stop_id,stop_lat,stop_lon FROM stops',
@@ -25,7 +27,7 @@ app.get('/getBusStops',(req,res) => {
             if (err) {
                 console.log(err); 
             } else {
-                res.json(result);
+                res.json(result); //hold the response from the database i.e. data
             }
         });
 });
