@@ -1,0 +1,14 @@
+[
+    {
+        "fare_id": "Frequent",
+        "price": "2.00",
+        "currency_type": "USD",
+        "transfer_duration": "7200"
+    },
+    {
+        "fare_id": "Standard",
+        "price": "2.00",
+        "currency_type": "USD",
+        "transfer_duration": "7200"
+    }
+]
