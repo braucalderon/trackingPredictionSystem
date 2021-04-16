@@ -1,0 +1,25 @@
+.navigation {
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    overflow: hidden;
+    background-color: white;
+
+    .navigation-container-1 {
+        width: 50%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        // border: 4px solid black;
+        overflow: hidden;
+    }
+    .navigation-container-2 {
+        width: 50%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        // border: 4px solid black;
+        overflow: hidden;
+    }
+}
