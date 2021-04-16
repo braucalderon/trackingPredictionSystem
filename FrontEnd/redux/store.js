@@ -1,8 +1,12 @@
 import { configureStore } from '@reduxjs/toolkit';
-import subMenuReducer from './reducer';
+import subMenuSlice from './subMenuSlice';
+import scheduleSlice from './scheduleSlice';
 
+// can add more slices in the store by importing them
+// https://redux.js.org/tutorials/essentials/part-4-using-data
 export default configureStore({
   reducer: {
-    subMenu: subMenuReducer,
+    subMenu: subMenuSlice,
+    schedule: scheduleSlice
   },
 });
