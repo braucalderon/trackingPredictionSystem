@@ -1,58 +1,41 @@
 import React from "react";
+import TextField from "@material-ui/core/TextField";
+import MenuItem from "@material-ui/core/MenuItem";
+import TimeData from './scheduleTimeData.js';
+
 
 const InputSchedule = (props) => {
+  
+
   return (
     <React.Fragment>
       <div style={{ display: "flex", justifyContent: "space-between" }}>
-        <label
-          style={{
-            fontFamily: "serif",
-            fontSize: "3vh",
-          }}
-        >
-          Schedules:
-        </label>
-        <label
-          style={{
-            fontFamily: "serif",
-            fontSize: "3vh",
-            marginRight: "15%",
-          }}
-        >
-          Time:
-        </label>
-      </div>
-
-      <div style={{ display: "flex", justifyContent: "space-between" }}>
-        <input
-          style={{
-            width: "60%",
-            fontFamily: "serif",
-            height: "4vh",
-            fontSize: "2.5vh",
-            textAlign: "center",
-            borderRadius: "1vh",
-          }}
-          type="search"
-          placeholder="Stop Name"
+        <TextField
+          style={{ width: "55%" }}
+          id="outlined-basic"
+          label="Stop Name or ID"
+          variant="outlined"
+          size="small"
           onChange={props.onSearchChange}
+          required
         />
-        <input
-          style={{
-            width: "25%",
-            fontFamily: "serif",
-            height: "4vh",
-            fontSize: "2.5vh",
-            textAlign: "center",
-            borderRadius: "1vh",
-            marginRight: "9%",
-          }}
-          type="number"
-          max="12"
-          min="0"
-          placeholder="Time"
+        <TextField
+          style={{ width: "30%" }}
+          select
+          value={props.time}
+          id="outlined-basic"
+          size="small"
+          label="Time"
+          variant="outlined"
           onChange={props.onSearchChangeTime}
-        />
+          required
+        >
+          {TimeData.map((option) => (
+            <MenuItem key={option.value} value={option.value}>
+              {option.time}
+            </MenuItem>
+          ))}
+        </TextField>
       </div>
     </React.Fragment>
   );

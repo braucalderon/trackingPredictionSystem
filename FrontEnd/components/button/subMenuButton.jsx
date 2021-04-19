@@ -9,15 +9,15 @@ const useStyles = makeStyles((theme) => ({
   root: {
     // border: '2px blue solid',
     width: "40%",
-    backgroundColor: "#97A4E3",
-    color: "white",
     "&:hover": {
-      backgroundColor: "#97A4E3",
+      backgroundColor: "#BAD3E9",
+      borderStyle: "none",
+      color: "black"
     },
   },
 }));
 
-const SubMenuButton = (props) => {
+const CustomButton = (props) => {
   const classes = useStyles();
   // dispatch is used to close the modal with false or true from the subMenu slice component
   const dispatch = useDispatch();
@@ -26,6 +26,8 @@ const SubMenuButton = (props) => {
   let positionButton = props.position ? (
     <div className="button">
       <Button
+        variant="outlined"
+        color="primary"
         className={classes.root}
         onClick={() => dispatch(onClickStateBoolean())}
       >
@@ -35,6 +37,8 @@ const SubMenuButton = (props) => {
   ) : (
     <div className="buttonSchedule">
       <Button
+        variant="outlined"
+        color="primary"
         className={classes.root}
         onClick={props.scheduleHandler}
         disabled={props.disabled}
@@ -42,6 +46,8 @@ const SubMenuButton = (props) => {
         {props.name2}
       </Button>
       <Button
+        variant="outlined"
+        color="primary"
         className={classes.root}
         onClick={() => dispatch(onClickStateBoolean())}
       >
@@ -52,4 +58,4 @@ const SubMenuButton = (props) => {
 
   return positionButton;
 };
-export default SubMenuButton;
+export default CustomButton;

@@ -51,6 +51,7 @@ const Map = (props) => {
       let directions = new MapboxDirections({
         accessToken: mapboxgl.accessToken,
         controls: { instructions: true},
+        
       });
       let marker = new mapboxgl.Marker({
         draggable: true
@@ -116,9 +117,6 @@ console.log(instruction);
     <React.Fragment>
       <div className="map-container" ref={mapboxRef}>
         {post}
-        <div className="map-button-container">
-          <button className='map-button' onClick={() => dispatch(onClickResetCoordinates())}>Reset Map</button>
-        </div>
       </div>
     </React.Fragment>
   );
