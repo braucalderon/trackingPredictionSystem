@@ -4,15 +4,16 @@ import "./schedule.scss";
 import InputSchedule from "./inputSchedule";
 import PostOutput from "./postOutputSchedule";
 import Progress from "../progress/progress";
-import SubMenuButton from "../button/subMenuButton";
+import CloseButton from "../button/subMenuButton";
 import { onClickCoordinates } from "../../redux/scheduleSlice.js";
 import { useDispatch } from "react-redux";
+import TimeData from './scheduleTimeData.js';
 
 const Schedules = (props) => {
   const [stopTime, setStopTime] = useState([]);
   const [searchField, setSearchField] = useState("");
   // time for arrivals and departure based on input
-  const [time, setTime] = useState(0);
+  const [time, setTime] = useState(TimeData);
   const dispatch = useDispatch();
 
   useEffect(() => {
@@ -72,13 +73,14 @@ const Schedules = (props) => {
         <InputSchedule
           onSearchChange={onSearchChange}
           onSearchChangeTime={onSearchChangeTime}
+          timeData = {time}
         />
       </div>
 
       <div className="scheduleSearch">{posts}</div>
 
       <div className="scheduleButtons">
-        <SubMenuButton
+        <CloseButton
           name="Close"
           position={false}
           name2="Location"

@@ -21,11 +21,23 @@
 .modal {
     display: flex;
     flex-flow: column;
-    width: 35%;
+    width: 37%;
     height: 75vh;
     // height: 70vh;
     background-color: white;
     padding: 1vh;
     margin: 1vh;
     border-radius: 1vh;
+}
+@media (min-width: 250px) and (max-width: 500px ){
+    .modal{
+        width: 90%;
+        height: 68vh;
+        
+    }
+}
+@media (min-width: 500px) and (max-width: 770px ){
+    .modal{
+        width: 57%;
+    }
 }

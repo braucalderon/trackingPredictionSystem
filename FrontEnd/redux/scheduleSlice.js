@@ -12,7 +12,7 @@ const scheduleSlice = createSlice({
     onClickCoordinates: (state, action) => {
       state.lat = action.payload[0];
       state.lon = action.payload[1];
-      state.zoom = 14;
+      state.zoom = 16;
       state.instruction = true;
       // console.log(action.payload[0]);
       // console.log(action.payload[1]);
