@@ -8,6 +8,7 @@
 <li>if everything is good with the version, then run npx create-react my-app, otherwise update the latest versions</li>
 <li>Yarn users: yarn create react-app my-app Npm users: npm create react-app my-app</li>
 <li>Note: my-app is the name given to the app, you can choose any name</li>
+
 <li>Run in the terminal: </li>
 <ul>1. cd my-app</ul>
 <ul>2. npm start or yarn start</ul>
@@ -24,6 +25,15 @@
 
 <li>The access map key must be added into mapboxgl.accessToken = 'map_key' </li>
 <ul><img width='600px' src='https://user-images.githubusercontent.com/17528320/115511141-86581380-a24e-11eb-9d58-c88c78019d32.png'></ul>
+
+<li>Run in the terminal: cd my-app</li>
+<li>Run in the terminal: npm start or yarn start</li>
+
+### Uploading dependencies to be able to run the app
+<li>For this projects make sure all the dependencies are installed like image bellow</li>
+<ul><img width='600px' src='https://user-images.githubusercontent.com/17528320/115506081-70475480-a248-11eb-9701-a4fee0e95909.png'></ul>
+
+
 
 
 
