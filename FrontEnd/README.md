@@ -8,7 +8,7 @@
 <li>if everything is good with the version, then run npx create-react my-app, otherwise update the latest versions</li>
 <li>Yarn users: yarn create react-app my-app Npm users: npm create react-app my-app</li>
 <li>Note: my-app is the name given to the app, you can choose any name</li>
-<li>Run in the terminal: </li>
+<li>After the app is created, then run in the terminal: </li>
 <ul>1. cd my-app</ul>
 <ul>2. npm start or yarn start</ul>
 
