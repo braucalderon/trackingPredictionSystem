@@ -11,9 +11,10 @@
 <li>Note: my-app is the name given to the app, you can choose any name</li>
 <li>Run in the terminal: cd my-app</li>
 <li>Run in the terminal: npm start or yarn start</li>
+
 ### Uploading dependencies to be able to run the app
 <li>For this projects make sure all the dependencies are installed like image bellow</li>
-<ul><img width='100px' src='https://user-images.githubusercontent.com/17528320/115506081-70475480-a248-11eb-9701-a4fee0e95909.png'></ul>
+<ul><img width='500px' src='https://user-images.githubusercontent.com/17528320/115506081-70475480-a248-11eb-9701-a4fee0e95909.png'></ul>
 
 <li></li>
 <li></li>
