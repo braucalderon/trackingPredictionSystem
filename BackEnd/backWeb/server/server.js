@@ -15,14 +15,6 @@ const db = mysql.createConnection({
     database: 'database',
 });
 
-//connects to database 
-const db = mysql.createConnection({
-    user: 'root',
-    host: 'localhost',
-    password: 'toortoor',
-    database: 'OhioTransit',
-});
-
 // gets the call to make a query
 app.get('/scheduleGetter',(req,res) => {
     // if passing a parameter with Axios use res.query 
