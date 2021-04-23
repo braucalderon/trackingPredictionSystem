@@ -15,19 +15,54 @@ const db = mysql.createConnection({
     database: 'database',
 });
 
+//connects to database 
+const db = mysql.createConnection({
+    user: 'root',
+    host: 'localhost',
+    password: 'toortoor',
+    database: 'OhioTransit',
+});
+
 // gets the call to make a query
-app.get('/getBusStops',(req,res) => {
+app.get('/scheduleGetter',(req,res) => {
     // if passing a parameter with Axios use res.query 
     // to get the parameter
-    const origin = req.query.Origin; 
-
+    const entry = req.query.busIDEnter; //given stop_id
+    // console.log("Given Stop_ID is: ", entry);
+   
     db.query(
-       'SELECT stop_id,stop_lat,stop_lon FROM stops',
+    // "SELECT * FROM stops LIMIT 0,10",   
+    'SELECT stop_id,stop_lat,stop_lon ' + 
+    'FROM stops ' + 
+    'WHERE stop_id =' + "'" + `${entry}` + "'",
         (err,result) => {
             if (err) {
                 console.log(err); 
             } else {
                 res.json(result); //hold the response from the database i.e. data
+                console.log(result);//should get stop_id, stop_lat and stop_lon of the given ID
+            }
+        });
+});
+
+// gets the call to make a query
+app.get('/timeGetter',(req,res) => {
+    // if passing a parameter with Axios use res.query 
+    // to get the parameter
+    const stopID = req.query.busID; 
+
+    console.log("Time Getter: ", stopID);
+
+    db.query(
+    'SELECT trips.trip_id, stop_times.stop_id, stop_times.arrival_time, stop_times.departure_time ' +
+    'FROM trips, stop_times ' +
+    'WHERE stop_times.stop_id = ' + "'" + `${stopID}` + "'" +' and trips.trip_id = stop_times.trip_id',
+        (err,result) => {
+            if (err) {
+                console.log(err); 
+            } else {
+                res.json(result); //hold the response from the database i.e. data
+                // console.log(result);//getting what we want when schedules is clicked
             }
         });
 });
@@ -35,4 +70,3 @@ app.get('/getBusStops',(req,res) => {
 app.listen(PORT, () => { 
     console.log(`Server up listening on ${PORT}...`);
 });
-
