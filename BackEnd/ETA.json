@@ -1,0 +1,8002 @@
+[
+ {
+   "trip_id": 751381,
+   "stop_id": "PICBETS",
+   "stop_sequence": 1,
+   "arrival_time": "03:40:00",
+   "departure_time": "04:50:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "2425BET",
+   "stop_sequence": 2,
+   "arrival_time": "03:40:42",
+   "departure_time": "04:50:53",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "BETWOOE",
+   "stop_sequence": 3,
+   "arrival_time": "03:41:24",
+   "departure_time": "04:51:35",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "BETHEDE",
+   "stop_sequence": 4,
+   "arrival_time": "03:41:16",
+   "departure_time": "04:52:17",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "BETDIEE",
+   "stop_sequence": 5,
+   "arrival_time": "03:42:00",
+   "departure_time": "04:53:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "BETOLGE",
+   "stop_sequence": 6,
+   "arrival_time": "03:42:26",
+   "departure_time": "04:53:37",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "BETREEE",
+   "stop_sequence": 7,
+   "arrival_time": "03:43:18",
+   "departure_time": "04:54:18",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "BETPORE",
+   "stop_sequence": 8,
+   "arrival_time": "03:43:48",
+   "departure_time": "04:54:58",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "GODBETS",
+   "stop_sequence": 9,
+   "arrival_time": "03:44:43",
+   "departure_time": "04:55:54",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "GODLANSE",
+   "stop_sequence": 10,
+   "arrival_time": "03:45:24",
+   "departure_time": "04:56:35",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "GODCHEE",
+   "stop_sequence": 11,
+   "arrival_time": "03:46:00",
+   "departure_time": "04:57:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "KENWEYS",
+   "stop_sequence": 12,
+   "arrival_time": "03:48:02",
+   "departure_time": "04:58:03",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "KENMERS",
+   "stop_sequence": 13,
+   "arrival_time": "03:48:30",
+   "departure_time": "04:58:40",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "KENFOLS",
+   "stop_sequence": 14,
+   "arrival_time": "03:49:21",
+   "departure_time": "04:59:31",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "KENWINS",
+   "stop_sequence": 15,
+   "arrival_time": "04:00:16",
+   "departure_time": "05:00:27",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "KENPARS",
+   "stop_sequence": 16,
+   "arrival_time": "04:01:13",
+   "departure_time": "05:01:14",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "KENMCCS",
+   "stop_sequence": 17,
+   "arrival_time": "04:01:00",
+   "departure_time": "05:02:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "KENMILS",
+   "stop_sequence": 18,
+   "arrival_time": "04:01:29",
+   "departure_time": "05:02:39",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "KENRUES",
+   "stop_sequence": 19,
+   "arrival_time": "04:02:33",
+   "departure_time": "05:03:44",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "NORCLEE",
+   "stop_sequence": 20,
+   "arrival_time": "04:03:18",
+   "departure_time": "05:04:28",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "NORSHAE",
+   "stop_sequence": 21,
+   "arrival_time": "04:03:42",
+   "departure_time": "05:04:53",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "NORENTE",
+   "stop_sequence": 22,
+   "arrival_time": "04:05:00",
+   "departure_time": "05:06:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "OLEUNIS",
+   "stop_sequence": 23,
+   "arrival_time": "04:08:04",
+   "departure_time": "05:08:05",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "OLERIVS1",
+   "stop_sequence": 24,
+   "arrival_time": "04:09:00",
+   "departure_time": "05:09:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "OLEHARS2",
+   "stop_sequence": 25,
+   "arrival_time": "04:09:36",
+   "departure_time": "05:09:47",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "OLE2825S",
+   "stop_sequence": 26,
+   "arrival_time": "04:10:06",
+   "departure_time": "05:10:07",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "OLEACKS",
+   "stop_sequence": 27,
+   "arrival_time": "04:10:36",
+   "departure_time": "05:10:47",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "OLEARGS",
+   "stop_sequence": 28,
+   "arrival_time": "04:11:22",
+   "departure_time": "05:11:33",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LANOLEE",
+   "stop_sequence": 29,
+   "arrival_time": "04:11:26",
+   "departure_time": "05:12:37",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LANTUTE",
+   "stop_sequence": 30,
+   "arrival_time": "04:12:19",
+   "departure_time": "05:13:29",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LANNEIE",
+   "stop_sequence": 31,
+   "arrival_time": "04:13:00",
+   "departure_time": "05:14:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIGLANS",
+   "stop_sequence": 32,
+   "arrival_time": "04:14:13",
+   "departure_time": "05:15:24",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIG18TS",
+   "stop_sequence": 33,
+   "arrival_time": "04:15:13",
+   "departure_time": "05:16:24",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIG15TS",
+   "stop_sequence": 34,
+   "arrival_time": "04:16:12",
+   "departure_time": "05:17:23",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIG13TS",
+   "stop_sequence": 35,
+   "arrival_time": "04:18:09",
+   "departure_time": "05:18:09",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIGCHIS",
+   "stop_sequence": 36,
+   "arrival_time": "04:19:00",
+   "departure_time": "05:19:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIG10TS",
+   "stop_sequence": 37,
+   "arrival_time": "04:19:31",
+   "departure_time": "05:19:41",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "NHIGMCMS",
+   "stop_sequence": 38,
+   "arrival_time": "04:10:26",
+   "departure_time": "05:20:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIGCLAS",
+   "stop_sequence": 39,
+   "arrival_time": "04:11:14",
+   "departure_time": "05:21:15",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIG5THS",
+   "stop_sequence": 40,
+   "arrival_time": "04:11:00",
+   "departure_time": "05:22:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIG4THS",
+   "stop_sequence": 41,
+   "arrival_time": "04:11:18",
+   "departure_time": "05:22:28",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "NHIW2S",
+   "stop_sequence": 42,
+   "arrival_time": "04:12:16",
+   "departure_time": "05:23:17",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIGHUBS",
+   "stop_sequence": 43,
+   "arrival_time": "04:13:10",
+   "departure_time": "05:24:10",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIGRUSS",
+   "stop_sequence": 44,
+   "arrival_time": "04:14:01",
+   "departure_time": "05:25:02",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIGSWANS",
+   "stop_sequence": 45,
+   "arrival_time": "04:14:26",
+   "departure_time": "05:25:37",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIGOHIS",
+   "stop_sequence": 46,
+   "arrival_time": "04:15:13",
+   "departure_time": "05:26:24",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIGNATS",
+   "stop_sequence": 47,
+   "arrival_time": "04:16:00",
+   "departure_time": "05:27:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIGLONS",
+   "stop_sequence": 48,
+   "arrival_time": "04:18:00",
+   "departure_time": "05:28:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIGBROS",
+   "stop_sequence": 49,
+   "arrival_time": "04:20:00",
+   "departure_time": "05:30:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIGSTAS",
+   "stop_sequence": 50,
+   "arrival_time": "04:21:16",
+   "departure_time": "05:31:27",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIGTOWS",
+   "stop_sequence": 51,
+   "arrival_time": "04:21:31",
+   "departure_time": "05:32:42",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIGMAIS2",
+   "stop_sequence": 52,
+   "arrival_time": "04:23:09",
+   "departure_time": "05:34:09",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "HIGMOUS",
+   "stop_sequence": 53,
+   "arrival_time": "04:24:00",
+   "departure_time": "05:35:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIV3RDE",
+   "stop_sequence": 54,
+   "arrival_time": "04:25:01",
+   "departure_time": "05:36:01",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIV4THE",
+   "stop_sequence": 55,
+   "arrival_time": "04:25:35",
+   "departure_time": "05:36:46",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIV6THE",
+   "stop_sequence": 56,
+   "arrival_time": "04:26:15",
+   "departure_time": "05:37:16",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVGRANE",
+   "stop_sequence": 57,
+   "arrival_time": "04:26:31",
+   "departure_time": "05:37:41",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVPARE",
+   "stop_sequence": 58,
+   "arrival_time": "04:29:00",
+   "departure_time": "05:39:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVANNE",
+   "stop_sequence": 59,
+   "arrival_time": "04:29:11",
+   "departure_time": "05:39:22",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIV18TE",
+   "stop_sequence": 60,
+   "arrival_time": "04:29:34",
+   "departure_time": "05:39:45",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVCARE",
+   "stop_sequence": 61,
+   "arrival_time": "04:30:09",
+   "departure_time": "05:40:09",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIV22NE",
+   "stop_sequence": 62,
+   "arrival_time": "04:30:26",
+   "departure_time": "05:40:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVCHAE",
+   "stop_sequence": 63,
+   "arrival_time": "04:31:00",
+   "departure_time": "05:41:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVWILE",
+   "stop_sequence": 64,
+   "arrival_time": "04:31:20",
+   "departure_time": "05:41:30",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVSTUE",
+   "stop_sequence": 65,
+   "arrival_time": "04:31:04",
+   "departure_time": "05:42:05",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVKELE",
+   "stop_sequence": 66,
+   "arrival_time": "04:32:00",
+   "departure_time": "05:43:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVBERE",
+   "stop_sequence": 67,
+   "arrival_time": "04:32:14",
+   "departure_time": "05:43:25",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVBULE",
+   "stop_sequence": 68,
+   "arrival_time": "04:33:18",
+   "departure_time": "05:44:18",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVRHOE",
+   "stop_sequence": 69,
+   "arrival_time": "04:33:29",
+   "departure_time": "05:44:39",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVMEME",
+   "stop_sequence": 70,
+   "arrival_time": "04:34:08",
+   "departure_time": "05:45:08",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVMAYE",
+   "stop_sequence": 71,
+   "arrival_time": "04:35:06",
+   "departure_time": "05:46:07",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVCOLE",
+   "stop_sequence": 72,
+   "arrival_time": "04:36:00",
+   "departure_time": "05:47:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVCASE",
+   "stop_sequence": 73,
+   "arrival_time": "04:36:19",
+   "departure_time": "05:47:29",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVROOE",
+   "stop_sequence": 74,
+   "arrival_time": "04:38:04",
+   "departure_time": "05:48:05",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVCHEE",
+   "stop_sequence": 75,
+   "arrival_time": "04:38:19",
+   "departure_time": "05:48:29",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVBROE1",
+   "stop_sequence": 76,
+   "arrival_time": "04:38:43",
+   "departure_time": "05:48:54",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVWELE",
+   "stop_sequence": 77,
+   "arrival_time": "04:39:16",
+   "departure_time": "05:49:17",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVKELE1",
+   "stop_sequence": 78,
+   "arrival_time": "04:39:25",
+   "departure_time": "05:49:36",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVJAME",
+   "stop_sequence": 79,
+   "arrival_time": "04:40:00",
+   "departure_time": "05:50:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVZETE",
+   "stop_sequence": 80,
+   "arrival_time": "04:40:34",
+   "departure_time": "05:50:45",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVBARE",
+   "stop_sequence": 81,
+   "arrival_time": "04:41:12",
+   "departure_time": "05:51:23",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVCUNE",
+   "stop_sequence": 82,
+   "arrival_time": "04:41:01",
+   "departure_time": "05:52:02",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVCOUE",
+   "stop_sequence": 83,
+   "arrival_time": "04:41:42",
+   "departure_time": "05:52:53",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVBEEE",
+   "stop_sequence": 84,
+   "arrival_time": "04:42:12",
+   "departure_time": "05:53:13",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVVILE",
+   "stop_sequence": 85,
+   "arrival_time": "04:42:25",
+   "departure_time": "05:53:36",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVYEAE",
+   "stop_sequence": 86,
+   "arrival_time": "04:43:11",
+   "departure_time": "05:54:11",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVBURE",
+   "stop_sequence": 87,
+   "arrival_time": "04:43:42",
+   "departure_time": "05:54:53",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVGRAE",
+   "stop_sequence": 88,
+   "arrival_time": "04:44:15",
+   "departure_time": "05:55:26",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVHAME",
+   "stop_sequence": 89,
+   "arrival_time": "04:45:00",
+   "departure_time": "05:56:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVSHAE",
+   "stop_sequence": 90,
+   "arrival_time": "04:45:35",
+   "departure_time": "05:56:46",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVLATE",
+   "stop_sequence": 91,
+   "arrival_time": "04:46:16",
+   "departure_time": "05:57:27",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVNOEE",
+   "stop_sequence": 92,
+   "arrival_time": "04:49:21",
+   "departure_time": "05:59:32",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVLONE",
+   "stop_sequence": 93,
+   "arrival_time": "05:00:00",
+   "departure_time": "06:00:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVBAIE",
+   "stop_sequence": 94,
+   "arrival_time": "05:01:18",
+   "departure_time": "06:01:28",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVQUAE",
+   "stop_sequence": 95,
+   "arrival_time": "05:01:10",
+   "departure_time": "06:02:10",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVWALE",
+   "stop_sequence": 96,
+   "arrival_time": "05:01:45",
+   "departure_time": "06:02:56",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVSARE",
+   "stop_sequence": 97,
+   "arrival_time": "05:02:20",
+   "departure_time": "06:03:30",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "LIVBRIE",
+   "stop_sequence": 98,
+   "arrival_time": "05:03:31",
+   "departure_time": "06:04:41",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "EASOFFE",
+   "stop_sequence": 99,
+   "arrival_time": "05:05:06",
+   "departure_time": "06:06:07",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751381,
+   "stop_id": "REYRIDSW",
+   "stop_sequence": 100,
+   "arrival_time": "05:06:00",
+   "departure_time": "06:07:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "PICBETS",
+   "stop_sequence": 1,
+   "arrival_time": "04:00:00",
+   "departure_time": "05:00:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "2425BET",
+   "stop_sequence": 2,
+   "arrival_time": "04:00:42",
+   "departure_time": "05:00:53",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "BETWOOE",
+   "stop_sequence": 3,
+   "arrival_time": "04:01:24",
+   "departure_time": "05:01:35",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "BETHEDE",
+   "stop_sequence": 4,
+   "arrival_time": "04:01:16",
+   "departure_time": "05:02:17",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "BETDIEE",
+   "stop_sequence": 5,
+   "arrival_time": "04:02:00",
+   "departure_time": "05:03:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "BETOLGE",
+   "stop_sequence": 6,
+   "arrival_time": "04:02:26",
+   "departure_time": "05:03:37",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "BETREEE",
+   "stop_sequence": 7,
+   "arrival_time": "04:03:18",
+   "departure_time": "05:04:18",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "BETPORE",
+   "stop_sequence": 8,
+   "arrival_time": "04:03:48",
+   "departure_time": "05:04:58",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "GODBETS",
+   "stop_sequence": 9,
+   "arrival_time": "04:04:43",
+   "departure_time": "05:05:54",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "GODLANSE",
+   "stop_sequence": 10,
+   "arrival_time": "04:05:24",
+   "departure_time": "05:06:35",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "GODCHEE",
+   "stop_sequence": 11,
+   "arrival_time": "04:06:00",
+   "departure_time": "05:07:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "KENWEYS",
+   "stop_sequence": 12,
+   "arrival_time": "04:08:02",
+   "departure_time": "05:08:03",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "KENMERS",
+   "stop_sequence": 13,
+   "arrival_time": "04:08:30",
+   "departure_time": "05:08:40",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "KENFOLS",
+   "stop_sequence": 14,
+   "arrival_time": "04:09:21",
+   "departure_time": "05:09:31",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "KENWINS",
+   "stop_sequence": 15,
+   "arrival_time": "04:10:16",
+   "departure_time": "05:10:27",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "KENPARS",
+   "stop_sequence": 16,
+   "arrival_time": "04:11:13",
+   "departure_time": "05:11:14",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "KENMCCS",
+   "stop_sequence": 17,
+   "arrival_time": "04:11:00",
+   "departure_time": "05:12:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "KENMILS",
+   "stop_sequence": 18,
+   "arrival_time": "04:11:29",
+   "departure_time": "05:12:39",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "KENRUES",
+   "stop_sequence": 19,
+   "arrival_time": "04:12:33",
+   "departure_time": "05:13:44",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "NORCLEE",
+   "stop_sequence": 20,
+   "arrival_time": "04:13:18",
+   "departure_time": "05:14:28",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "NORSHAE",
+   "stop_sequence": 21,
+   "arrival_time": "04:13:42",
+   "departure_time": "05:14:53",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "NORENTE",
+   "stop_sequence": 22,
+   "arrival_time": "04:15:00",
+   "departure_time": "05:16:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "OLEUNIS",
+   "stop_sequence": 23,
+   "arrival_time": "04:18:04",
+   "departure_time": "05:18:05",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "OLERIVS1",
+   "stop_sequence": 24,
+   "arrival_time": "04:19:00",
+   "departure_time": "05:19:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "OLEHARS2",
+   "stop_sequence": 25,
+   "arrival_time": "04:19:36",
+   "departure_time": "05:19:47",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "OLE2825S",
+   "stop_sequence": 26,
+   "arrival_time": "04:10:06",
+   "departure_time": "05:20:07",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "OLEACKS",
+   "stop_sequence": 27,
+   "arrival_time": "04:10:36",
+   "departure_time": "05:20:47",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "OLEARGS",
+   "stop_sequence": 28,
+   "arrival_time": "04:11:22",
+   "departure_time": "05:21:33",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LANOLEE",
+   "stop_sequence": 29,
+   "arrival_time": "04:11:26",
+   "departure_time": "05:22:37",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LANTUTE",
+   "stop_sequence": 30,
+   "arrival_time": "04:12:19",
+   "departure_time": "05:23:29",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LANNEIE",
+   "stop_sequence": 31,
+   "arrival_time": "04:13:00",
+   "departure_time": "05:24:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIGLANS",
+   "stop_sequence": 32,
+   "arrival_time": "04:14:13",
+   "departure_time": "05:25:24",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIG18TS",
+   "stop_sequence": 33,
+   "arrival_time": "04:15:13",
+   "departure_time": "05:26:24",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIG15TS",
+   "stop_sequence": 34,
+   "arrival_time": "04:16:12",
+   "departure_time": "05:27:23",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIG13TS",
+   "stop_sequence": 35,
+   "arrival_time": "04:18:09",
+   "departure_time": "05:28:09",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIGCHIS",
+   "stop_sequence": 36,
+   "arrival_time": "04:19:00",
+   "departure_time": "05:29:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIG10TS",
+   "stop_sequence": 37,
+   "arrival_time": "04:19:31",
+   "departure_time": "05:29:41",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "NHIGMCMS",
+   "stop_sequence": 38,
+   "arrival_time": "04:20:26",
+   "departure_time": "05:30:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIGCLAS",
+   "stop_sequence": 39,
+   "arrival_time": "04:21:14",
+   "departure_time": "05:31:15",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIG5THS",
+   "stop_sequence": 40,
+   "arrival_time": "04:21:00",
+   "departure_time": "05:32:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIG4THS",
+   "stop_sequence": 41,
+   "arrival_time": "04:21:18",
+   "departure_time": "05:32:28",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "NHIW2S",
+   "stop_sequence": 42,
+   "arrival_time": "04:22:16",
+   "departure_time": "05:33:17",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIGHUBS",
+   "stop_sequence": 43,
+   "arrival_time": "04:23:10",
+   "departure_time": "05:34:10",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIGRUSS",
+   "stop_sequence": 44,
+   "arrival_time": "04:24:01",
+   "departure_time": "05:35:02",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIGSWANS",
+   "stop_sequence": 45,
+   "arrival_time": "04:24:26",
+   "departure_time": "05:35:37",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIGOHIS",
+   "stop_sequence": 46,
+   "arrival_time": "04:25:13",
+   "departure_time": "05:36:24",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIGNATS",
+   "stop_sequence": 47,
+   "arrival_time": "04:26:00",
+   "departure_time": "05:37:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIGLONS",
+   "stop_sequence": 48,
+   "arrival_time": "04:28:00",
+   "departure_time": "05:38:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIGBROS",
+   "stop_sequence": 49,
+   "arrival_time": "04:30:00",
+   "departure_time": "05:40:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIGSTAS",
+   "stop_sequence": 50,
+   "arrival_time": "04:31:16",
+   "departure_time": "05:41:27",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIGTOWS",
+   "stop_sequence": 51,
+   "arrival_time": "04:31:31",
+   "departure_time": "05:42:42",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIGMAIS2",
+   "stop_sequence": 52,
+   "arrival_time": "04:33:09",
+   "departure_time": "05:44:09",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "HIGMOUS",
+   "stop_sequence": 53,
+   "arrival_time": "04:34:00",
+   "departure_time": "05:45:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIV3RDE",
+   "stop_sequence": 54,
+   "arrival_time": "04:35:01",
+   "departure_time": "05:46:01",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIV4THE",
+   "stop_sequence": 55,
+   "arrival_time": "04:35:35",
+   "departure_time": "05:46:46",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIV6THE",
+   "stop_sequence": 56,
+   "arrival_time": "04:36:15",
+   "departure_time": "05:47:16",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVGRANE",
+   "stop_sequence": 57,
+   "arrival_time": "04:36:31",
+   "departure_time": "05:47:41",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVPARE",
+   "stop_sequence": 58,
+   "arrival_time": "04:39:00",
+   "departure_time": "05:49:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVANNE",
+   "stop_sequence": 59,
+   "arrival_time": "04:39:11",
+   "departure_time": "05:49:22",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIV18TE",
+   "stop_sequence": 60,
+   "arrival_time": "04:39:34",
+   "departure_time": "05:49:45",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVCARE",
+   "stop_sequence": 61,
+   "arrival_time": "04:40:09",
+   "departure_time": "05:50:09",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIV22NE",
+   "stop_sequence": 62,
+   "arrival_time": "04:40:26",
+   "departure_time": "05:50:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVCHAE",
+   "stop_sequence": 63,
+   "arrival_time": "04:41:00",
+   "departure_time": "05:51:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVWILE",
+   "stop_sequence": 64,
+   "arrival_time": "04:41:20",
+   "departure_time": "05:51:30",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVSTUE",
+   "stop_sequence": 65,
+   "arrival_time": "04:41:04",
+   "departure_time": "05:52:05",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVKELE",
+   "stop_sequence": 66,
+   "arrival_time": "04:42:00",
+   "departure_time": "05:53:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVBERE",
+   "stop_sequence": 67,
+   "arrival_time": "04:42:14",
+   "departure_time": "05:53:25",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVBULE",
+   "stop_sequence": 68,
+   "arrival_time": "04:43:18",
+   "departure_time": "05:54:18",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVRHOE",
+   "stop_sequence": 69,
+   "arrival_time": "04:43:29",
+   "departure_time": "05:54:39",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVMEME",
+   "stop_sequence": 70,
+   "arrival_time": "04:44:08",
+   "departure_time": "05:55:08",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVMAYE",
+   "stop_sequence": 71,
+   "arrival_time": "04:45:06",
+   "departure_time": "05:56:07",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVCOLE",
+   "stop_sequence": 72,
+   "arrival_time": "04:46:00",
+   "departure_time": "05:57:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVCASE",
+   "stop_sequence": 73,
+   "arrival_time": "04:46:19",
+   "departure_time": "05:57:29",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVROOE",
+   "stop_sequence": 74,
+   "arrival_time": "04:48:04",
+   "departure_time": "05:58:05",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVCHEE",
+   "stop_sequence": 75,
+   "arrival_time": "04:48:19",
+   "departure_time": "05:58:29",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVBROE1",
+   "stop_sequence": 76,
+   "arrival_time": "04:48:43",
+   "departure_time": "05:58:54",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVWELE",
+   "stop_sequence": 77,
+   "arrival_time": "04:49:16",
+   "departure_time": "05:59:17",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVKELE1",
+   "stop_sequence": 78,
+   "arrival_time": "04:49:25",
+   "departure_time": "05:59:36",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVJAME",
+   "stop_sequence": 79,
+   "arrival_time": "05:00:00",
+   "departure_time": "06:00:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVZETE",
+   "stop_sequence": 80,
+   "arrival_time": "05:00:34",
+   "departure_time": "06:00:45",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVBARE",
+   "stop_sequence": 81,
+   "arrival_time": "05:01:12",
+   "departure_time": "06:01:23",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVCUNE",
+   "stop_sequence": 82,
+   "arrival_time": "05:01:01",
+   "departure_time": "06:02:02",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVCOUE",
+   "stop_sequence": 83,
+   "arrival_time": "05:01:42",
+   "departure_time": "06:02:53",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVBEEE",
+   "stop_sequence": 84,
+   "arrival_time": "05:02:12",
+   "departure_time": "06:03:13",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVVILE",
+   "stop_sequence": 85,
+   "arrival_time": "05:02:25",
+   "departure_time": "06:03:36",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVYEAE",
+   "stop_sequence": 86,
+   "arrival_time": "05:03:11",
+   "departure_time": "06:04:11",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVBURE",
+   "stop_sequence": 87,
+   "arrival_time": "05:03:42",
+   "departure_time": "06:04:53",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVGRAE",
+   "stop_sequence": 88,
+   "arrival_time": "05:04:15",
+   "departure_time": "06:05:26",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVHAME",
+   "stop_sequence": 89,
+   "arrival_time": "05:05:00",
+   "departure_time": "06:06:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVSHAE",
+   "stop_sequence": 90,
+   "arrival_time": "05:05:35",
+   "departure_time": "06:06:46",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVLATE",
+   "stop_sequence": 91,
+   "arrival_time": "05:06:16",
+   "departure_time": "06:07:27",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVNOEE",
+   "stop_sequence": 92,
+   "arrival_time": "05:09:21",
+   "departure_time": "06:09:32",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVLONE",
+   "stop_sequence": 93,
+   "arrival_time": "05:10:00",
+   "departure_time": "06:10:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVBAIE",
+   "stop_sequence": 94,
+   "arrival_time": "05:11:18",
+   "departure_time": "06:11:28",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVQUAE",
+   "stop_sequence": 95,
+   "arrival_time": "05:11:10",
+   "departure_time": "06:12:10",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVWALE",
+   "stop_sequence": 96,
+   "arrival_time": "05:11:45",
+   "departure_time": "06:12:56",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVSARE",
+   "stop_sequence": 97,
+   "arrival_time": "05:12:20",
+   "departure_time": "06:13:30",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "LIVBRIE",
+   "stop_sequence": 98,
+   "arrival_time": "05:13:31",
+   "departure_time": "06:14:41",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "EASOFFE",
+   "stop_sequence": 99,
+   "arrival_time": "05:15:06",
+   "departure_time": "06:16:07",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751382,
+   "stop_id": "REYRIDSW",
+   "stop_sequence": 100,
+   "arrival_time": "05:16:00",
+   "departure_time": "06:17:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "PICBETS",
+   "stop_sequence": 1,
+   "arrival_time": "04:09:00",
+   "departure_time": "05:09:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "2425BET",
+   "stop_sequence": 2,
+   "arrival_time": "04:09:42",
+   "departure_time": "05:09:53",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "BETWOOE",
+   "stop_sequence": 3,
+   "arrival_time": "04:10:24",
+   "departure_time": "05:10:35",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "BETHEDE",
+   "stop_sequence": 4,
+   "arrival_time": "04:11:16",
+   "departure_time": "05:11:17",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "BETDIEE",
+   "stop_sequence": 5,
+   "arrival_time": "04:11:00",
+   "departure_time": "05:12:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "BETOLGE",
+   "stop_sequence": 6,
+   "arrival_time": "04:11:26",
+   "departure_time": "05:12:37",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "BETREEE",
+   "stop_sequence": 7,
+   "arrival_time": "04:12:18",
+   "departure_time": "05:13:18",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "BETPORE",
+   "stop_sequence": 8,
+   "arrival_time": "04:12:48",
+   "departure_time": "05:13:58",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "GODBETS",
+   "stop_sequence": 9,
+   "arrival_time": "04:13:43",
+   "departure_time": "05:14:54",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "GODLANSE",
+   "stop_sequence": 10,
+   "arrival_time": "04:14:24",
+   "departure_time": "05:15:35",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "GODCHEE",
+   "stop_sequence": 11,
+   "arrival_time": "04:15:00",
+   "departure_time": "05:16:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "KENWEYS",
+   "stop_sequence": 12,
+   "arrival_time": "04:16:02",
+   "departure_time": "05:17:03",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "KENMERS",
+   "stop_sequence": 13,
+   "arrival_time": "04:16:30",
+   "departure_time": "05:17:40",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "KENFOLS",
+   "stop_sequence": 14,
+   "arrival_time": "04:18:21",
+   "departure_time": "05:18:31",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "KENWINS",
+   "stop_sequence": 15,
+   "arrival_time": "04:19:16",
+   "departure_time": "05:19:27",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "KENPARS",
+   "stop_sequence": 16,
+   "arrival_time": "04:10:13",
+   "departure_time": "05:20:14",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "KENMCCS",
+   "stop_sequence": 17,
+   "arrival_time": "04:11:00",
+   "departure_time": "05:21:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "KENMILS",
+   "stop_sequence": 18,
+   "arrival_time": "04:11:29",
+   "departure_time": "05:21:39",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "KENRUES",
+   "stop_sequence": 19,
+   "arrival_time": "04:11:33",
+   "departure_time": "05:22:44",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "NORCLEE",
+   "stop_sequence": 20,
+   "arrival_time": "04:12:18",
+   "departure_time": "05:23:28",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "NORSHAE",
+   "stop_sequence": 21,
+   "arrival_time": "04:12:42",
+   "departure_time": "05:23:53",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "NORENTE",
+   "stop_sequence": 22,
+   "arrival_time": "04:14:00",
+   "departure_time": "05:25:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "OLEUNIS",
+   "stop_sequence": 23,
+   "arrival_time": "04:16:04",
+   "departure_time": "05:27:05",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "OLERIVS1",
+   "stop_sequence": 24,
+   "arrival_time": "04:18:00",
+   "departure_time": "05:28:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "OLEHARS2",
+   "stop_sequence": 25,
+   "arrival_time": "04:18:36",
+   "departure_time": "05:28:47",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "OLE2825S",
+   "stop_sequence": 26,
+   "arrival_time": "04:19:06",
+   "departure_time": "05:29:07",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "OLEACKS",
+   "stop_sequence": 27,
+   "arrival_time": "04:19:36",
+   "departure_time": "05:29:47",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "OLEARGS",
+   "stop_sequence": 28,
+   "arrival_time": "04:20:22",
+   "departure_time": "05:30:33",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LANOLEE",
+   "stop_sequence": 29,
+   "arrival_time": "04:21:26",
+   "departure_time": "05:31:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LANTUTE",
+   "stop_sequence": 30,
+   "arrival_time": "04:21:19",
+   "departure_time": "05:32:29",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LANNEIE",
+   "stop_sequence": 31,
+   "arrival_time": "04:22:00",
+   "departure_time": "05:33:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIGLANS",
+   "stop_sequence": 32,
+   "arrival_time": "04:23:13",
+   "departure_time": "05:34:24",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIG18TS",
+   "stop_sequence": 33,
+   "arrival_time": "04:24:13",
+   "departure_time": "05:35:24",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIG15TS",
+   "stop_sequence": 34,
+   "arrival_time": "04:25:12",
+   "departure_time": "05:36:23",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIG13TS",
+   "stop_sequence": 35,
+   "arrival_time": "04:26:09",
+   "departure_time": "05:37:09",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIGCHIS",
+   "stop_sequence": 36,
+   "arrival_time": "04:28:00",
+   "departure_time": "05:38:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIG10TS",
+   "stop_sequence": 37,
+   "arrival_time": "04:28:31",
+   "departure_time": "05:38:41",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "NHIGMCMS",
+   "stop_sequence": 38,
+   "arrival_time": "04:29:26",
+   "departure_time": "05:39:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIGCLAS",
+   "stop_sequence": 39,
+   "arrival_time": "04:30:14",
+   "departure_time": "05:40:15",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIG5THS",
+   "stop_sequence": 40,
+   "arrival_time": "04:31:00",
+   "departure_time": "05:41:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIG4THS",
+   "stop_sequence": 41,
+   "arrival_time": "04:31:23",
+   "departure_time": "05:41:34",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "NHIW2S",
+   "stop_sequence": 42,
+   "arrival_time": "04:31:22",
+   "departure_time": "05:42:33",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIGHUBS",
+   "stop_sequence": 43,
+   "arrival_time": "04:32:26",
+   "departure_time": "05:43:37",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIGRUSS",
+   "stop_sequence": 44,
+   "arrival_time": "04:33:30",
+   "departure_time": "05:44:40",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIGSWANS",
+   "stop_sequence": 45,
+   "arrival_time": "04:34:11",
+   "departure_time": "05:45:22",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIGOHIS",
+   "stop_sequence": 46,
+   "arrival_time": "04:35:18",
+   "departure_time": "05:46:18",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIGNATS",
+   "stop_sequence": 47,
+   "arrival_time": "04:36:00",
+   "departure_time": "05:47:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIGLONS",
+   "stop_sequence": 48,
+   "arrival_time": "04:38:00",
+   "departure_time": "05:48:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIGBROS",
+   "stop_sequence": 49,
+   "arrival_time": "04:40:00",
+   "departure_time": "05:50:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIGSTAS",
+   "stop_sequence": 50,
+   "arrival_time": "04:41:16",
+   "departure_time": "05:51:27",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIGTOWS",
+   "stop_sequence": 51,
+   "arrival_time": "04:41:31",
+   "departure_time": "05:52:42",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIGMAIS2",
+   "stop_sequence": 52,
+   "arrival_time": "04:43:09",
+   "departure_time": "05:54:09",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "HIGMOUS",
+   "stop_sequence": 53,
+   "arrival_time": "04:44:00",
+   "departure_time": "05:55:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIV3RDE",
+   "stop_sequence": 54,
+   "arrival_time": "04:45:01",
+   "departure_time": "05:56:01",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIV4THE",
+   "stop_sequence": 55,
+   "arrival_time": "04:45:35",
+   "departure_time": "05:56:46",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIV6THE",
+   "stop_sequence": 56,
+   "arrival_time": "04:46:15",
+   "departure_time": "05:57:16",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVGRANE",
+   "stop_sequence": 57,
+   "arrival_time": "04:46:31",
+   "departure_time": "05:57:41",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVPARE",
+   "stop_sequence": 58,
+   "arrival_time": "04:49:00",
+   "departure_time": "05:59:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVANNE",
+   "stop_sequence": 59,
+   "arrival_time": "04:49:11",
+   "departure_time": "05:59:22",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIV18TE",
+   "stop_sequence": 60,
+   "arrival_time": "04:49:34",
+   "departure_time": "05:59:45",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVCARE",
+   "stop_sequence": 61,
+   "arrival_time": "05:00:09",
+   "departure_time": "06:00:09",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIV22NE",
+   "stop_sequence": 62,
+   "arrival_time": "05:00:26",
+   "departure_time": "06:00:37",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVCHAE",
+   "stop_sequence": 63,
+   "arrival_time": "05:01:00",
+   "departure_time": "06:01:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVWILE",
+   "stop_sequence": 64,
+   "arrival_time": "05:01:20",
+   "departure_time": "06:01:30",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVSTUE",
+   "stop_sequence": 65,
+   "arrival_time": "05:01:04",
+   "departure_time": "06:02:05",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVKELE",
+   "stop_sequence": 66,
+   "arrival_time": "05:02:00",
+   "departure_time": "06:03:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVBERE",
+   "stop_sequence": 67,
+   "arrival_time": "05:02:14",
+   "departure_time": "06:03:25",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVBULE",
+   "stop_sequence": 68,
+   "arrival_time": "05:03:18",
+   "departure_time": "06:04:18",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVRHOE",
+   "stop_sequence": 69,
+   "arrival_time": "05:03:29",
+   "departure_time": "06:04:39",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVMEME",
+   "stop_sequence": 70,
+   "arrival_time": "05:04:08",
+   "departure_time": "06:05:08",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVMAYE",
+   "stop_sequence": 71,
+   "arrival_time": "05:05:06",
+   "departure_time": "06:06:07",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVCOLE",
+   "stop_sequence": 72,
+   "arrival_time": "05:06:00",
+   "departure_time": "06:07:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVCASE",
+   "stop_sequence": 73,
+   "arrival_time": "05:06:19",
+   "departure_time": "06:07:29",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVROOE",
+   "stop_sequence": 74,
+   "arrival_time": "05:08:04",
+   "departure_time": "06:08:05",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVCHEE",
+   "stop_sequence": 75,
+   "arrival_time": "05:08:19",
+   "departure_time": "06:08:29",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVBROE1",
+   "stop_sequence": 76,
+   "arrival_time": "05:08:43",
+   "departure_time": "06:08:54",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVWELE",
+   "stop_sequence": 77,
+   "arrival_time": "05:09:16",
+   "departure_time": "06:09:17",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVKELE1",
+   "stop_sequence": 78,
+   "arrival_time": "05:09:25",
+   "departure_time": "06:09:36",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVJAME",
+   "stop_sequence": 79,
+   "arrival_time": "05:10:00",
+   "departure_time": "06:10:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVZETE",
+   "stop_sequence": 80,
+   "arrival_time": "05:10:34",
+   "departure_time": "06:10:45",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVBARE",
+   "stop_sequence": 81,
+   "arrival_time": "05:11:12",
+   "departure_time": "06:11:23",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVCUNE",
+   "stop_sequence": 82,
+   "arrival_time": "05:11:01",
+   "departure_time": "06:12:02",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVCOUE",
+   "stop_sequence": 83,
+   "arrival_time": "05:11:42",
+   "departure_time": "06:12:53",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVBEEE",
+   "stop_sequence": 84,
+   "arrival_time": "05:12:12",
+   "departure_time": "06:13:13",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVVILE",
+   "stop_sequence": 85,
+   "arrival_time": "05:12:25",
+   "departure_time": "06:13:36",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVYEAE",
+   "stop_sequence": 86,
+   "arrival_time": "05:13:11",
+   "departure_time": "06:14:11",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVBURE",
+   "stop_sequence": 87,
+   "arrival_time": "05:13:42",
+   "departure_time": "06:14:53",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVGRAE",
+   "stop_sequence": 88,
+   "arrival_time": "05:14:15",
+   "departure_time": "06:15:26",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVHAME",
+   "stop_sequence": 89,
+   "arrival_time": "05:15:00",
+   "departure_time": "06:16:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVSHAE",
+   "stop_sequence": 90,
+   "arrival_time": "05:15:35",
+   "departure_time": "06:16:46",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVLATE",
+   "stop_sequence": 91,
+   "arrival_time": "05:16:16",
+   "departure_time": "06:17:27",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVNOEE",
+   "stop_sequence": 92,
+   "arrival_time": "05:19:21",
+   "departure_time": "06:19:32",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVLONE",
+   "stop_sequence": 93,
+   "arrival_time": "05:10:00",
+   "departure_time": "06:20:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVBAIE",
+   "stop_sequence": 94,
+   "arrival_time": "05:11:18",
+   "departure_time": "06:21:28",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVQUAE",
+   "stop_sequence": 95,
+   "arrival_time": "05:11:10",
+   "departure_time": "06:22:10",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVWALE",
+   "stop_sequence": 96,
+   "arrival_time": "05:11:45",
+   "departure_time": "06:22:56",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVSARE",
+   "stop_sequence": 97,
+   "arrival_time": "05:12:20",
+   "departure_time": "06:23:30",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "LIVBRIE",
+   "stop_sequence": 98,
+   "arrival_time": "05:13:31",
+   "departure_time": "06:24:41",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "EASOFFE",
+   "stop_sequence": 99,
+   "arrival_time": "05:15:06",
+   "departure_time": "06:26:07",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751383,
+   "stop_id": "REYRIDSW",
+   "stop_sequence": 100,
+   "arrival_time": "05:16:00",
+   "departure_time": "06:27:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "PICBETS",
+   "stop_sequence": 1,
+   "arrival_time": "04:19:00",
+   "departure_time": "05:19:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "2425BET",
+   "stop_sequence": 2,
+   "arrival_time": "04:19:42",
+   "departure_time": "05:19:53",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "BETWOOE",
+   "stop_sequence": 3,
+   "arrival_time": "04:10:24",
+   "departure_time": "05:20:35",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "BETHEDE",
+   "stop_sequence": 4,
+   "arrival_time": "04:11:16",
+   "departure_time": "05:21:17",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "BETDIEE",
+   "stop_sequence": 5,
+   "arrival_time": "04:11:00",
+   "departure_time": "05:22:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "BETOLGE",
+   "stop_sequence": 6,
+   "arrival_time": "04:11:26",
+   "departure_time": "05:22:37",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "BETREEE",
+   "stop_sequence": 7,
+   "arrival_time": "04:12:18",
+   "departure_time": "05:23:18",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "BETPORE",
+   "stop_sequence": 8,
+   "arrival_time": "04:12:48",
+   "departure_time": "05:23:58",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "GODBETS",
+   "stop_sequence": 9,
+   "arrival_time": "04:13:43",
+   "departure_time": "05:24:54",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "GODLANSE",
+   "stop_sequence": 10,
+   "arrival_time": "04:14:24",
+   "departure_time": "05:25:35",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "GODCHEE",
+   "stop_sequence": 11,
+   "arrival_time": "04:15:00",
+   "departure_time": "05:26:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "KENWEYS",
+   "stop_sequence": 12,
+   "arrival_time": "04:16:02",
+   "departure_time": "05:27:03",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "KENMERS",
+   "stop_sequence": 13,
+   "arrival_time": "04:16:30",
+   "departure_time": "05:27:40",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "KENFOLS",
+   "stop_sequence": 14,
+   "arrival_time": "04:18:21",
+   "departure_time": "05:28:31",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "KENWINS",
+   "stop_sequence": 15,
+   "arrival_time": "04:19:16",
+   "departure_time": "05:29:27",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "KENPARS",
+   "stop_sequence": 16,
+   "arrival_time": "04:20:13",
+   "departure_time": "05:30:14",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "KENMCCS",
+   "stop_sequence": 17,
+   "arrival_time": "04:21:00",
+   "departure_time": "05:31:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "KENMILS",
+   "stop_sequence": 18,
+   "arrival_time": "04:21:29",
+   "departure_time": "05:31:39",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "KENRUES",
+   "stop_sequence": 19,
+   "arrival_time": "04:21:33",
+   "departure_time": "05:32:44",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "NORCLEE",
+   "stop_sequence": 20,
+   "arrival_time": "04:22:18",
+   "departure_time": "05:33:28",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "NORSHAE",
+   "stop_sequence": 21,
+   "arrival_time": "04:22:42",
+   "departure_time": "05:33:53",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "NORENTE",
+   "stop_sequence": 22,
+   "arrival_time": "04:24:00",
+   "departure_time": "05:35:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "OLEUNIS",
+   "stop_sequence": 23,
+   "arrival_time": "04:26:04",
+   "departure_time": "05:37:05",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "OLERIVS1",
+   "stop_sequence": 24,
+   "arrival_time": "04:28:00",
+   "departure_time": "05:38:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "OLEHARS2",
+   "stop_sequence": 25,
+   "arrival_time": "04:28:36",
+   "departure_time": "05:38:47",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "OLE2825S",
+   "stop_sequence": 26,
+   "arrival_time": "04:29:06",
+   "departure_time": "05:39:07",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "OLEACKS",
+   "stop_sequence": 27,
+   "arrival_time": "04:29:36",
+   "departure_time": "05:39:47",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "OLEARGS",
+   "stop_sequence": 28,
+   "arrival_time": "04:30:22",
+   "departure_time": "05:40:33",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LANOLEE",
+   "stop_sequence": 29,
+   "arrival_time": "04:31:26",
+   "departure_time": "05:41:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LANTUTE",
+   "stop_sequence": 30,
+   "arrival_time": "04:31:19",
+   "departure_time": "05:42:29",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LANNEIE",
+   "stop_sequence": 31,
+   "arrival_time": "04:32:00",
+   "departure_time": "05:43:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIGLANS",
+   "stop_sequence": 32,
+   "arrival_time": "04:33:13",
+   "departure_time": "05:44:24",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIG18TS",
+   "stop_sequence": 33,
+   "arrival_time": "04:34:13",
+   "departure_time": "05:45:24",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIG15TS",
+   "stop_sequence": 34,
+   "arrival_time": "04:35:12",
+   "departure_time": "05:46:23",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIG13TS",
+   "stop_sequence": 35,
+   "arrival_time": "04:36:09",
+   "departure_time": "05:47:09",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIGCHIS",
+   "stop_sequence": 36,
+   "arrival_time": "04:38:00",
+   "departure_time": "05:48:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIG10TS",
+   "stop_sequence": 37,
+   "arrival_time": "04:38:31",
+   "departure_time": "05:48:41",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "NHIGMCMS",
+   "stop_sequence": 38,
+   "arrival_time": "04:39:26",
+   "departure_time": "05:49:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIGCLAS",
+   "stop_sequence": 39,
+   "arrival_time": "04:40:14",
+   "departure_time": "05:50:15",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIG5THS",
+   "stop_sequence": 40,
+   "arrival_time": "04:41:00",
+   "departure_time": "05:51:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIG4THS",
+   "stop_sequence": 41,
+   "arrival_time": "04:41:23",
+   "departure_time": "05:51:34",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "NHIW2S",
+   "stop_sequence": 42,
+   "arrival_time": "04:41:22",
+   "departure_time": "05:52:33",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIGHUBS",
+   "stop_sequence": 43,
+   "arrival_time": "04:42:26",
+   "departure_time": "05:53:37",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIGRUSS",
+   "stop_sequence": 44,
+   "arrival_time": "04:43:30",
+   "departure_time": "05:54:40",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIGSWANS",
+   "stop_sequence": 45,
+   "arrival_time": "04:44:11",
+   "departure_time": "05:55:22",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIGOHIS",
+   "stop_sequence": 46,
+   "arrival_time": "04:45:18",
+   "departure_time": "05:56:18",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIGNATS",
+   "stop_sequence": 47,
+   "arrival_time": "04:46:00",
+   "departure_time": "05:57:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIGLONS",
+   "stop_sequence": 48,
+   "arrival_time": "04:48:00",
+   "departure_time": "05:58:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIGBROS",
+   "stop_sequence": 49,
+   "arrival_time": "05:00:00",
+   "departure_time": "06:00:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIGSTAS",
+   "stop_sequence": 50,
+   "arrival_time": "05:01:16",
+   "departure_time": "06:01:27",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIGTOWS",
+   "stop_sequence": 51,
+   "arrival_time": "05:01:31",
+   "departure_time": "06:02:42",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIGMAIS2",
+   "stop_sequence": 52,
+   "arrival_time": "05:03:09",
+   "departure_time": "06:04:09",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "HIGMOUS",
+   "stop_sequence": 53,
+   "arrival_time": "05:04:00",
+   "departure_time": "06:05:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIV3RDE",
+   "stop_sequence": 54,
+   "arrival_time": "05:05:01",
+   "departure_time": "06:06:01",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIV4THE",
+   "stop_sequence": 55,
+   "arrival_time": "05:05:35",
+   "departure_time": "06:06:46",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIV6THE",
+   "stop_sequence": 56,
+   "arrival_time": "05:06:15",
+   "departure_time": "06:07:16",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVGRANE",
+   "stop_sequence": 57,
+   "arrival_time": "05:06:31",
+   "departure_time": "06:07:41",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVPARE",
+   "stop_sequence": 58,
+   "arrival_time": "05:09:00",
+   "departure_time": "06:09:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVANNE",
+   "stop_sequence": 59,
+   "arrival_time": "05:09:11",
+   "departure_time": "06:09:22",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIV18TE",
+   "stop_sequence": 60,
+   "arrival_time": "05:09:34",
+   "departure_time": "06:09:45",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVCARE",
+   "stop_sequence": 61,
+   "arrival_time": "05:10:09",
+   "departure_time": "06:10:09",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIV22NE",
+   "stop_sequence": 62,
+   "arrival_time": "05:10:26",
+   "departure_time": "06:10:37",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVCHAE",
+   "stop_sequence": 63,
+   "arrival_time": "05:11:00",
+   "departure_time": "06:11:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVWILE",
+   "stop_sequence": 64,
+   "arrival_time": "05:11:20",
+   "departure_time": "06:11:30",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVSTUE",
+   "stop_sequence": 65,
+   "arrival_time": "05:11:04",
+   "departure_time": "06:12:05",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVKELE",
+   "stop_sequence": 66,
+   "arrival_time": "05:12:00",
+   "departure_time": "06:13:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVBERE",
+   "stop_sequence": 67,
+   "arrival_time": "05:12:14",
+   "departure_time": "06:13:25",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVBULE",
+   "stop_sequence": 68,
+   "arrival_time": "05:13:18",
+   "departure_time": "06:14:18",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVRHOE",
+   "stop_sequence": 69,
+   "arrival_time": "05:13:29",
+   "departure_time": "06:14:39",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVMEME",
+   "stop_sequence": 70,
+   "arrival_time": "05:14:08",
+   "departure_time": "06:15:08",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVMAYE",
+   "stop_sequence": 71,
+   "arrival_time": "05:15:06",
+   "departure_time": "06:16:07",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVCOLE",
+   "stop_sequence": 72,
+   "arrival_time": "05:16:00",
+   "departure_time": "06:17:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVCASE",
+   "stop_sequence": 73,
+   "arrival_time": "05:16:19",
+   "departure_time": "06:17:29",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVROOE",
+   "stop_sequence": 74,
+   "arrival_time": "05:18:04",
+   "departure_time": "06:18:05",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVCHEE",
+   "stop_sequence": 75,
+   "arrival_time": "05:18:19",
+   "departure_time": "06:18:29",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVBROE1",
+   "stop_sequence": 76,
+   "arrival_time": "05:18:43",
+   "departure_time": "06:18:54",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVWELE",
+   "stop_sequence": 77,
+   "arrival_time": "05:19:16",
+   "departure_time": "06:19:17",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVKELE1",
+   "stop_sequence": 78,
+   "arrival_time": "05:19:25",
+   "departure_time": "06:19:36",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVJAME",
+   "stop_sequence": 79,
+   "arrival_time": "05:10:00",
+   "departure_time": "06:20:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVZETE",
+   "stop_sequence": 80,
+   "arrival_time": "05:10:34",
+   "departure_time": "06:20:45",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVBARE",
+   "stop_sequence": 81,
+   "arrival_time": "05:11:12",
+   "departure_time": "06:21:23",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVCUNE",
+   "stop_sequence": 82,
+   "arrival_time": "05:11:01",
+   "departure_time": "06:22:02",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVCOUE",
+   "stop_sequence": 83,
+   "arrival_time": "05:11:42",
+   "departure_time": "06:22:53",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVBEEE",
+   "stop_sequence": 84,
+   "arrival_time": "05:12:12",
+   "departure_time": "06:23:13",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVVILE",
+   "stop_sequence": 85,
+   "arrival_time": "05:12:25",
+   "departure_time": "06:23:36",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVYEAE",
+   "stop_sequence": 86,
+   "arrival_time": "05:13:11",
+   "departure_time": "06:24:11",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVBURE",
+   "stop_sequence": 87,
+   "arrival_time": "05:13:42",
+   "departure_time": "06:24:53",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVGRAE",
+   "stop_sequence": 88,
+   "arrival_time": "05:14:15",
+   "departure_time": "06:25:26",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVHAME",
+   "stop_sequence": 89,
+   "arrival_time": "05:15:00",
+   "departure_time": "06:26:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVSHAE",
+   "stop_sequence": 90,
+   "arrival_time": "05:15:35",
+   "departure_time": "06:26:46",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVLATE",
+   "stop_sequence": 91,
+   "arrival_time": "05:16:16",
+   "departure_time": "06:27:27",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVNOEE",
+   "stop_sequence": 92,
+   "arrival_time": "05:19:21",
+   "departure_time": "06:29:32",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVLONE",
+   "stop_sequence": 93,
+   "arrival_time": "05:20:00",
+   "departure_time": "06:30:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVBAIE",
+   "stop_sequence": 94,
+   "arrival_time": "05:21:18",
+   "departure_time": "06:31:28",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVQUAE",
+   "stop_sequence": 95,
+   "arrival_time": "05:21:10",
+   "departure_time": "06:32:10",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVWALE",
+   "stop_sequence": 96,
+   "arrival_time": "05:21:45",
+   "departure_time": "06:32:56",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVSARE",
+   "stop_sequence": 97,
+   "arrival_time": "05:22:20",
+   "departure_time": "06:33:30",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "LIVBRIE",
+   "stop_sequence": 98,
+   "arrival_time": "05:23:31",
+   "departure_time": "06:34:41",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "EASOFFE",
+   "stop_sequence": 99,
+   "arrival_time": "05:25:06",
+   "departure_time": "06:36:07",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751384,
+   "stop_id": "REYRIDSW",
+   "stop_sequence": 100,
+   "arrival_time": "05:26:00",
+   "departure_time": "06:37:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "PICBETS",
+   "stop_sequence": 1,
+   "arrival_time": "04:19:00",
+   "departure_time": "05:29:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "2425BET",
+   "stop_sequence": 2,
+   "arrival_time": "04:19:42",
+   "departure_time": "05:29:53",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "BETWOOE",
+   "stop_sequence": 3,
+   "arrival_time": "04:20:24",
+   "departure_time": "05:30:35",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "BETHEDE",
+   "stop_sequence": 4,
+   "arrival_time": "04:21:16",
+   "departure_time": "05:31:17",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "BETDIEE",
+   "stop_sequence": 5,
+   "arrival_time": "04:21:00",
+   "departure_time": "05:32:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "BETOLGE",
+   "stop_sequence": 6,
+   "arrival_time": "04:21:26",
+   "departure_time": "05:32:37",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "BETREEE",
+   "stop_sequence": 7,
+   "arrival_time": "04:22:18",
+   "departure_time": "05:33:18",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "BETPORE",
+   "stop_sequence": 8,
+   "arrival_time": "04:22:48",
+   "departure_time": "05:33:58",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "GODBETS",
+   "stop_sequence": 9,
+   "arrival_time": "04:23:43",
+   "departure_time": "05:34:54",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "GODLANSE",
+   "stop_sequence": 10,
+   "arrival_time": "04:24:24",
+   "departure_time": "05:35:35",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "GODCHEE",
+   "stop_sequence": 11,
+   "arrival_time": "04:25:00",
+   "departure_time": "05:36:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "KENWEYS",
+   "stop_sequence": 12,
+   "arrival_time": "04:26:02",
+   "departure_time": "05:37:03",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "KENMERS",
+   "stop_sequence": 13,
+   "arrival_time": "04:26:30",
+   "departure_time": "05:37:40",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "KENFOLS",
+   "stop_sequence": 14,
+   "arrival_time": "04:28:21",
+   "departure_time": "05:38:31",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "KENWINS",
+   "stop_sequence": 15,
+   "arrival_time": "04:29:16",
+   "departure_time": "05:39:27",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "KENPARS",
+   "stop_sequence": 16,
+   "arrival_time": "04:30:13",
+   "departure_time": "05:40:14",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "KENMCCS",
+   "stop_sequence": 17,
+   "arrival_time": "04:31:00",
+   "departure_time": "05:41:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "KENMILS",
+   "stop_sequence": 18,
+   "arrival_time": "04:31:29",
+   "departure_time": "05:41:39",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "KENRUES",
+   "stop_sequence": 19,
+   "arrival_time": "04:31:33",
+   "departure_time": "05:42:44",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "NORCLEE",
+   "stop_sequence": 20,
+   "arrival_time": "04:32:18",
+   "departure_time": "05:43:28",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "NORSHAE",
+   "stop_sequence": 21,
+   "arrival_time": "04:32:42",
+   "departure_time": "05:43:53",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "NORENTE",
+   "stop_sequence": 22,
+   "arrival_time": "04:34:00",
+   "departure_time": "05:45:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "OLEUNIS",
+   "stop_sequence": 23,
+   "arrival_time": "04:36:04",
+   "departure_time": "05:47:05",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "OLERIVS1",
+   "stop_sequence": 24,
+   "arrival_time": "04:38:00",
+   "departure_time": "05:48:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "OLEHARS2",
+   "stop_sequence": 25,
+   "arrival_time": "04:38:36",
+   "departure_time": "05:48:47",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "OLE2825S",
+   "stop_sequence": 26,
+   "arrival_time": "04:39:06",
+   "departure_time": "05:49:07",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "OLEACKS",
+   "stop_sequence": 27,
+   "arrival_time": "04:39:36",
+   "departure_time": "05:49:47",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "OLEARGS",
+   "stop_sequence": 28,
+   "arrival_time": "04:40:22",
+   "departure_time": "05:50:33",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LANOLEE",
+   "stop_sequence": 29,
+   "arrival_time": "04:41:26",
+   "departure_time": "05:51:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LANTUTE",
+   "stop_sequence": 30,
+   "arrival_time": "04:41:19",
+   "departure_time": "05:52:29",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LANNEIE",
+   "stop_sequence": 31,
+   "arrival_time": "04:42:00",
+   "departure_time": "05:53:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIGLANS",
+   "stop_sequence": 32,
+   "arrival_time": "04:43:13",
+   "departure_time": "05:54:24",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIG18TS",
+   "stop_sequence": 33,
+   "arrival_time": "04:44:13",
+   "departure_time": "05:55:24",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIG15TS",
+   "stop_sequence": 34,
+   "arrival_time": "04:45:12",
+   "departure_time": "05:56:23",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIG13TS",
+   "stop_sequence": 35,
+   "arrival_time": "04:46:09",
+   "departure_time": "05:57:09",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIGCHIS",
+   "stop_sequence": 36,
+   "arrival_time": "04:48:00",
+   "departure_time": "05:58:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIG10TS",
+   "stop_sequence": 37,
+   "arrival_time": "04:48:31",
+   "departure_time": "05:58:41",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "NHIGMCMS",
+   "stop_sequence": 38,
+   "arrival_time": "04:49:26",
+   "departure_time": "05:59:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIGCLAS",
+   "stop_sequence": 39,
+   "arrival_time": "05:00:14",
+   "departure_time": "06:00:15",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIG5THS",
+   "stop_sequence": 40,
+   "arrival_time": "05:01:00",
+   "departure_time": "06:01:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIG4THS",
+   "stop_sequence": 41,
+   "arrival_time": "05:01:23",
+   "departure_time": "06:01:34",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "NHIW2S",
+   "stop_sequence": 42,
+   "arrival_time": "05:01:22",
+   "departure_time": "06:02:33",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIGHUBS",
+   "stop_sequence": 43,
+   "arrival_time": "05:02:26",
+   "departure_time": "06:03:37",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIGRUSS",
+   "stop_sequence": 44,
+   "arrival_time": "05:03:30",
+   "departure_time": "06:04:40",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIGSWANS",
+   "stop_sequence": 45,
+   "arrival_time": "05:04:11",
+   "departure_time": "06:05:22",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIGOHIS",
+   "stop_sequence": 46,
+   "arrival_time": "05:05:18",
+   "departure_time": "06:06:18",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIGNATS",
+   "stop_sequence": 47,
+   "arrival_time": "05:06:00",
+   "departure_time": "06:07:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIGLONS",
+   "stop_sequence": 48,
+   "arrival_time": "05:08:00",
+   "departure_time": "06:08:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIGBROS",
+   "stop_sequence": 49,
+   "arrival_time": "05:10:00",
+   "departure_time": "06:10:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIGSTAS",
+   "stop_sequence": 50,
+   "arrival_time": "05:11:16",
+   "departure_time": "06:11:27",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIGTOWS",
+   "stop_sequence": 51,
+   "arrival_time": "05:11:31",
+   "departure_time": "06:12:42",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIGMAIS2",
+   "stop_sequence": 52,
+   "arrival_time": "05:13:09",
+   "departure_time": "06:14:09",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "HIGMOUS",
+   "stop_sequence": 53,
+   "arrival_time": "05:14:00",
+   "departure_time": "06:15:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIV3RDE",
+   "stop_sequence": 54,
+   "arrival_time": "05:15:01",
+   "departure_time": "06:16:01",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIV4THE",
+   "stop_sequence": 55,
+   "arrival_time": "05:15:35",
+   "departure_time": "06:16:46",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIV6THE",
+   "stop_sequence": 56,
+   "arrival_time": "05:16:15",
+   "departure_time": "06:17:16",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVGRANE",
+   "stop_sequence": 57,
+   "arrival_time": "05:16:31",
+   "departure_time": "06:17:41",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVPARE",
+   "stop_sequence": 58,
+   "arrival_time": "05:19:00",
+   "departure_time": "06:19:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVANNE",
+   "stop_sequence": 59,
+   "arrival_time": "05:19:11",
+   "departure_time": "06:19:22",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIV18TE",
+   "stop_sequence": 60,
+   "arrival_time": "05:19:34",
+   "departure_time": "06:19:45",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVCARE",
+   "stop_sequence": 61,
+   "arrival_time": "05:10:09",
+   "departure_time": "06:20:09",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIV22NE",
+   "stop_sequence": 62,
+   "arrival_time": "05:10:26",
+   "departure_time": "06:20:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVCHAE",
+   "stop_sequence": 63,
+   "arrival_time": "05:11:00",
+   "departure_time": "06:21:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVWILE",
+   "stop_sequence": 64,
+   "arrival_time": "05:11:20",
+   "departure_time": "06:21:30",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVSTUE",
+   "stop_sequence": 65,
+   "arrival_time": "05:11:04",
+   "departure_time": "06:22:05",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVKELE",
+   "stop_sequence": 66,
+   "arrival_time": "05:12:00",
+   "departure_time": "06:23:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVBERE",
+   "stop_sequence": 67,
+   "arrival_time": "05:12:14",
+   "departure_time": "06:23:25",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVBULE",
+   "stop_sequence": 68,
+   "arrival_time": "05:13:18",
+   "departure_time": "06:24:18",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVRHOE",
+   "stop_sequence": 69,
+   "arrival_time": "05:13:29",
+   "departure_time": "06:24:39",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVMEME",
+   "stop_sequence": 70,
+   "arrival_time": "05:14:08",
+   "departure_time": "06:25:08",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVMAYE",
+   "stop_sequence": 71,
+   "arrival_time": "05:15:06",
+   "departure_time": "06:26:07",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVCOLE",
+   "stop_sequence": 72,
+   "arrival_time": "05:16:00",
+   "departure_time": "06:27:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVCASE",
+   "stop_sequence": 73,
+   "arrival_time": "05:16:19",
+   "departure_time": "06:27:29",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVROOE",
+   "stop_sequence": 74,
+   "arrival_time": "05:18:04",
+   "departure_time": "06:28:05",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVCHEE",
+   "stop_sequence": 75,
+   "arrival_time": "05:18:19",
+   "departure_time": "06:28:29",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVBROE1",
+   "stop_sequence": 76,
+   "arrival_time": "05:18:43",
+   "departure_time": "06:28:54",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVWELE",
+   "stop_sequence": 77,
+   "arrival_time": "05:19:16",
+   "departure_time": "06:29:17",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVKELE1",
+   "stop_sequence": 78,
+   "arrival_time": "05:19:25",
+   "departure_time": "06:29:36",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVJAME",
+   "stop_sequence": 79,
+   "arrival_time": "05:20:00",
+   "departure_time": "06:30:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVZETE",
+   "stop_sequence": 80,
+   "arrival_time": "05:20:34",
+   "departure_time": "06:30:45",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVBARE",
+   "stop_sequence": 81,
+   "arrival_time": "05:21:12",
+   "departure_time": "06:31:23",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVCUNE",
+   "stop_sequence": 82,
+   "arrival_time": "05:21:01",
+   "departure_time": "06:32:02",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVCOUE",
+   "stop_sequence": 83,
+   "arrival_time": "05:21:42",
+   "departure_time": "06:32:53",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVBEEE",
+   "stop_sequence": 84,
+   "arrival_time": "05:22:12",
+   "departure_time": "06:33:13",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVVILE",
+   "stop_sequence": 85,
+   "arrival_time": "05:22:25",
+   "departure_time": "06:33:36",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVYEAE",
+   "stop_sequence": 86,
+   "arrival_time": "05:23:11",
+   "departure_time": "06:34:11",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVBURE",
+   "stop_sequence": 87,
+   "arrival_time": "05:23:42",
+   "departure_time": "06:34:53",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVGRAE",
+   "stop_sequence": 88,
+   "arrival_time": "05:24:15",
+   "departure_time": "06:35:26",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVHAME",
+   "stop_sequence": 89,
+   "arrival_time": "05:25:00",
+   "departure_time": "06:36:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVSHAE",
+   "stop_sequence": 90,
+   "arrival_time": "05:25:35",
+   "departure_time": "06:36:46",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVLATE",
+   "stop_sequence": 91,
+   "arrival_time": "05:26:16",
+   "departure_time": "06:37:27",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVNOEE",
+   "stop_sequence": 92,
+   "arrival_time": "05:29:21",
+   "departure_time": "06:39:32",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVLONE",
+   "stop_sequence": 93,
+   "arrival_time": "05:30:00",
+   "departure_time": "06:40:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVBAIE",
+   "stop_sequence": 94,
+   "arrival_time": "05:31:18",
+   "departure_time": "06:41:28",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVQUAE",
+   "stop_sequence": 95,
+   "arrival_time": "05:31:10",
+   "departure_time": "06:42:10",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVWALE",
+   "stop_sequence": 96,
+   "arrival_time": "05:31:45",
+   "departure_time": "06:42:56",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVSARE",
+   "stop_sequence": 97,
+   "arrival_time": "05:32:20",
+   "departure_time": "06:43:30",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "LIVBRIE",
+   "stop_sequence": 98,
+   "arrival_time": "05:33:31",
+   "departure_time": "06:44:41",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "EASOFFE",
+   "stop_sequence": 99,
+   "arrival_time": "05:35:06",
+   "departure_time": "06:46:07",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751385,
+   "stop_id": "REYRIDSW",
+   "stop_sequence": 100,
+   "arrival_time": "05:36:00",
+   "departure_time": "06:47:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "PICBETS",
+   "stop_sequence": 1,
+   "arrival_time": "04:29:00",
+   "departure_time": "05:39:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "2425BET",
+   "stop_sequence": 2,
+   "arrival_time": "04:29:42",
+   "departure_time": "05:39:53",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "BETWOOE",
+   "stop_sequence": 3,
+   "arrival_time": "04:30:24",
+   "departure_time": "05:40:35",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "BETHEDE",
+   "stop_sequence": 4,
+   "arrival_time": "04:31:16",
+   "departure_time": "05:41:17",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "BETDIEE",
+   "stop_sequence": 5,
+   "arrival_time": "04:31:00",
+   "departure_time": "05:42:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "BETOLGE",
+   "stop_sequence": 6,
+   "arrival_time": "04:31:26",
+   "departure_time": "05:42:37",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "BETREEE",
+   "stop_sequence": 7,
+   "arrival_time": "04:32:18",
+   "departure_time": "05:43:18",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "BETPORE",
+   "stop_sequence": 8,
+   "arrival_time": "04:32:48",
+   "departure_time": "05:43:58",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "GODBETS",
+   "stop_sequence": 9,
+   "arrival_time": "04:33:43",
+   "departure_time": "05:44:54",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "GODLANSE",
+   "stop_sequence": 10,
+   "arrival_time": "04:34:24",
+   "departure_time": "05:45:35",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "GODCHEE",
+   "stop_sequence": 11,
+   "arrival_time": "04:35:00",
+   "departure_time": "05:46:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "KENWEYS",
+   "stop_sequence": 12,
+   "arrival_time": "04:36:02",
+   "departure_time": "05:47:03",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "KENMERS",
+   "stop_sequence": 13,
+   "arrival_time": "04:36:30",
+   "departure_time": "05:47:40",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "KENFOLS",
+   "stop_sequence": 14,
+   "arrival_time": "04:38:21",
+   "departure_time": "05:48:31",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "KENWINS",
+   "stop_sequence": 15,
+   "arrival_time": "04:39:16",
+   "departure_time": "05:49:27",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "KENPARS",
+   "stop_sequence": 16,
+   "arrival_time": "04:40:13",
+   "departure_time": "05:50:14",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "KENMCCS",
+   "stop_sequence": 17,
+   "arrival_time": "04:41:00",
+   "departure_time": "05:51:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "KENMILS",
+   "stop_sequence": 18,
+   "arrival_time": "04:41:29",
+   "departure_time": "05:51:39",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "KENRUES",
+   "stop_sequence": 19,
+   "arrival_time": "04:41:33",
+   "departure_time": "05:52:44",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "NORCLEE",
+   "stop_sequence": 20,
+   "arrival_time": "04:42:18",
+   "departure_time": "05:53:28",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "NORSHAE",
+   "stop_sequence": 21,
+   "arrival_time": "04:42:42",
+   "departure_time": "05:53:53",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "NORENTE",
+   "stop_sequence": 22,
+   "arrival_time": "04:44:00",
+   "departure_time": "05:55:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "OLEUNIS",
+   "stop_sequence": 23,
+   "arrival_time": "04:46:04",
+   "departure_time": "05:57:05",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "OLERIVS1",
+   "stop_sequence": 24,
+   "arrival_time": "04:48:00",
+   "departure_time": "05:58:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "OLEHARS2",
+   "stop_sequence": 25,
+   "arrival_time": "04:48:36",
+   "departure_time": "05:58:47",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "OLE2825S",
+   "stop_sequence": 26,
+   "arrival_time": "04:49:06",
+   "departure_time": "05:59:07",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "OLEACKS",
+   "stop_sequence": 27,
+   "arrival_time": "04:49:36",
+   "departure_time": "05:59:47",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "OLEARGS",
+   "stop_sequence": 28,
+   "arrival_time": "05:00:22",
+   "departure_time": "06:00:33",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LANOLEE",
+   "stop_sequence": 29,
+   "arrival_time": "05:01:26",
+   "departure_time": "06:01:37",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LANTUTE",
+   "stop_sequence": 30,
+   "arrival_time": "05:01:19",
+   "departure_time": "06:02:29",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LANNEIE",
+   "stop_sequence": 31,
+   "arrival_time": "05:02:00",
+   "departure_time": "06:03:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIGLANS",
+   "stop_sequence": 32,
+   "arrival_time": "05:03:13",
+   "departure_time": "06:04:24",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIG18TS",
+   "stop_sequence": 33,
+   "arrival_time": "05:04:13",
+   "departure_time": "06:05:24",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIG15TS",
+   "stop_sequence": 34,
+   "arrival_time": "05:05:12",
+   "departure_time": "06:06:23",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIG13TS",
+   "stop_sequence": 35,
+   "arrival_time": "05:06:09",
+   "departure_time": "06:07:09",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIGCHIS",
+   "stop_sequence": 36,
+   "arrival_time": "05:08:00",
+   "departure_time": "06:08:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIG10TS",
+   "stop_sequence": 37,
+   "arrival_time": "05:08:31",
+   "departure_time": "06:08:41",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "NHIGMCMS",
+   "stop_sequence": 38,
+   "arrival_time": "05:09:26",
+   "departure_time": "06:09:37",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIGCLAS",
+   "stop_sequence": 39,
+   "arrival_time": "05:10:14",
+   "departure_time": "06:10:15",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIG5THS",
+   "stop_sequence": 40,
+   "arrival_time": "05:11:00",
+   "departure_time": "06:11:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIG4THS",
+   "stop_sequence": 41,
+   "arrival_time": "05:11:23",
+   "departure_time": "06:11:34",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "NHIW2S",
+   "stop_sequence": 42,
+   "arrival_time": "05:11:22",
+   "departure_time": "06:12:33",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIGHUBS",
+   "stop_sequence": 43,
+   "arrival_time": "05:12:26",
+   "departure_time": "06:13:37",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIGRUSS",
+   "stop_sequence": 44,
+   "arrival_time": "05:13:30",
+   "departure_time": "06:14:40",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIGSWANS",
+   "stop_sequence": 45,
+   "arrival_time": "05:14:11",
+   "departure_time": "06:15:22",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIGOHIS",
+   "stop_sequence": 46,
+   "arrival_time": "05:15:18",
+   "departure_time": "06:16:18",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIGNATS",
+   "stop_sequence": 47,
+   "arrival_time": "05:16:00",
+   "departure_time": "06:17:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIGLONS",
+   "stop_sequence": 48,
+   "arrival_time": "05:18:00",
+   "departure_time": "06:18:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIGBROS",
+   "stop_sequence": 49,
+   "arrival_time": "05:10:00",
+   "departure_time": "06:20:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIGSTAS",
+   "stop_sequence": 50,
+   "arrival_time": "05:11:16",
+   "departure_time": "06:21:27",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIGTOWS",
+   "stop_sequence": 51,
+   "arrival_time": "05:11:31",
+   "departure_time": "06:22:42",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIGMAIS2",
+   "stop_sequence": 52,
+   "arrival_time": "05:13:09",
+   "departure_time": "06:24:09",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "HIGMOUS",
+   "stop_sequence": 53,
+   "arrival_time": "05:14:00",
+   "departure_time": "06:25:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIV3RDE",
+   "stop_sequence": 54,
+   "arrival_time": "05:15:01",
+   "departure_time": "06:26:01",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIV4THE",
+   "stop_sequence": 55,
+   "arrival_time": "05:15:35",
+   "departure_time": "06:26:46",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIV6THE",
+   "stop_sequence": 56,
+   "arrival_time": "05:16:15",
+   "departure_time": "06:27:16",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVGRANE",
+   "stop_sequence": 57,
+   "arrival_time": "05:16:31",
+   "departure_time": "06:27:41",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVPARE",
+   "stop_sequence": 58,
+   "arrival_time": "05:19:00",
+   "departure_time": "06:29:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVANNE",
+   "stop_sequence": 59,
+   "arrival_time": "05:19:11",
+   "departure_time": "06:29:22",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIV18TE",
+   "stop_sequence": 60,
+   "arrival_time": "05:19:34",
+   "departure_time": "06:29:45",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVCARE",
+   "stop_sequence": 61,
+   "arrival_time": "05:20:09",
+   "departure_time": "06:30:09",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIV22NE",
+   "stop_sequence": 62,
+   "arrival_time": "05:20:26",
+   "departure_time": "06:30:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVCHAE",
+   "stop_sequence": 63,
+   "arrival_time": "05:21:00",
+   "departure_time": "06:31:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVWILE",
+   "stop_sequence": 64,
+   "arrival_time": "05:21:20",
+   "departure_time": "06:31:30",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVSTUE",
+   "stop_sequence": 65,
+   "arrival_time": "05:21:04",
+   "departure_time": "06:32:05",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVKELE",
+   "stop_sequence": 66,
+   "arrival_time": "05:22:00",
+   "departure_time": "06:33:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVBERE",
+   "stop_sequence": 67,
+   "arrival_time": "05:22:14",
+   "departure_time": "06:33:25",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVBULE",
+   "stop_sequence": 68,
+   "arrival_time": "05:23:18",
+   "departure_time": "06:34:18",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVRHOE",
+   "stop_sequence": 69,
+   "arrival_time": "05:23:29",
+   "departure_time": "06:34:39",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVMEME",
+   "stop_sequence": 70,
+   "arrival_time": "05:24:08",
+   "departure_time": "06:35:08",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVMAYE",
+   "stop_sequence": 71,
+   "arrival_time": "05:25:06",
+   "departure_time": "06:36:07",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVCOLE",
+   "stop_sequence": 72,
+   "arrival_time": "05:26:00",
+   "departure_time": "06:37:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVCASE",
+   "stop_sequence": 73,
+   "arrival_time": "05:26:19",
+   "departure_time": "06:37:29",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVROOE",
+   "stop_sequence": 74,
+   "arrival_time": "05:28:04",
+   "departure_time": "06:38:05",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVCHEE",
+   "stop_sequence": 75,
+   "arrival_time": "05:28:19",
+   "departure_time": "06:38:29",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVBROE1",
+   "stop_sequence": 76,
+   "arrival_time": "05:28:43",
+   "departure_time": "06:38:54",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVWELE",
+   "stop_sequence": 77,
+   "arrival_time": "05:29:16",
+   "departure_time": "06:39:17",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVKELE1",
+   "stop_sequence": 78,
+   "arrival_time": "05:29:25",
+   "departure_time": "06:39:36",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVJAME",
+   "stop_sequence": 79,
+   "arrival_time": "05:30:00",
+   "departure_time": "06:40:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVZETE",
+   "stop_sequence": 80,
+   "arrival_time": "05:30:34",
+   "departure_time": "06:40:45",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVBARE",
+   "stop_sequence": 81,
+   "arrival_time": "05:31:12",
+   "departure_time": "06:41:23",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVCUNE",
+   "stop_sequence": 82,
+   "arrival_time": "05:31:01",
+   "departure_time": "06:42:02",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVCOUE",
+   "stop_sequence": 83,
+   "arrival_time": "05:31:42",
+   "departure_time": "06:42:53",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVBEEE",
+   "stop_sequence": 84,
+   "arrival_time": "05:32:12",
+   "departure_time": "06:43:13",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVVILE",
+   "stop_sequence": 85,
+   "arrival_time": "05:32:25",
+   "departure_time": "06:43:36",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVYEAE",
+   "stop_sequence": 86,
+   "arrival_time": "05:33:11",
+   "departure_time": "06:44:11",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVBURE",
+   "stop_sequence": 87,
+   "arrival_time": "05:33:42",
+   "departure_time": "06:44:53",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVGRAE",
+   "stop_sequence": 88,
+   "arrival_time": "05:34:15",
+   "departure_time": "06:45:26",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVHAME",
+   "stop_sequence": 89,
+   "arrival_time": "05:35:00",
+   "departure_time": "06:46:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVSHAE",
+   "stop_sequence": 90,
+   "arrival_time": "05:35:35",
+   "departure_time": "06:46:46",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVLATE",
+   "stop_sequence": 91,
+   "arrival_time": "05:36:16",
+   "departure_time": "06:47:27",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVNOEE",
+   "stop_sequence": 92,
+   "arrival_time": "05:39:21",
+   "departure_time": "06:49:32",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVLONE",
+   "stop_sequence": 93,
+   "arrival_time": "05:40:00",
+   "departure_time": "06:50:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVBAIE",
+   "stop_sequence": 94,
+   "arrival_time": "05:41:18",
+   "departure_time": "06:51:28",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVQUAE",
+   "stop_sequence": 95,
+   "arrival_time": "05:41:10",
+   "departure_time": "06:52:10",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVWALE",
+   "stop_sequence": 96,
+   "arrival_time": "05:41:45",
+   "departure_time": "06:52:56",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVSARE",
+   "stop_sequence": 97,
+   "arrival_time": "05:42:20",
+   "departure_time": "06:53:30",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "LIVBRIE",
+   "stop_sequence": 98,
+   "arrival_time": "05:43:31",
+   "departure_time": "06:54:41",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "EASOFFE",
+   "stop_sequence": 99,
+   "arrival_time": "05:45:06",
+   "departure_time": "06:56:07",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751386,
+   "stop_id": "REYRIDSW",
+   "stop_sequence": 100,
+   "arrival_time": "05:46:00",
+   "departure_time": "06:57:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "PICBETS",
+   "stop_sequence": 1,
+   "arrival_time": "04:39:00",
+   "departure_time": "05:49:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "2425BET",
+   "stop_sequence": 2,
+   "arrival_time": "04:39:42",
+   "departure_time": "05:49:53",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "BETWOOE",
+   "stop_sequence": 3,
+   "arrival_time": "04:40:24",
+   "departure_time": "05:50:35",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "BETHEDE",
+   "stop_sequence": 4,
+   "arrival_time": "04:41:16",
+   "departure_time": "05:51:17",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "BETDIEE",
+   "stop_sequence": 5,
+   "arrival_time": "04:41:00",
+   "departure_time": "05:52:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "BETOLGE",
+   "stop_sequence": 6,
+   "arrival_time": "04:41:26",
+   "departure_time": "05:52:37",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "BETREEE",
+   "stop_sequence": 7,
+   "arrival_time": "04:42:18",
+   "departure_time": "05:53:18",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "BETPORE",
+   "stop_sequence": 8,
+   "arrival_time": "04:42:48",
+   "departure_time": "05:53:58",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "GODBETS",
+   "stop_sequence": 9,
+   "arrival_time": "04:43:43",
+   "departure_time": "05:54:54",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "GODLANSE",
+   "stop_sequence": 10,
+   "arrival_time": "04:44:24",
+   "departure_time": "05:55:35",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "GODCHEE",
+   "stop_sequence": 11,
+   "arrival_time": "04:45:00",
+   "departure_time": "05:56:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "KENWEYS",
+   "stop_sequence": 12,
+   "arrival_time": "04:46:02",
+   "departure_time": "05:57:03",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "KENMERS",
+   "stop_sequence": 13,
+   "arrival_time": "04:46:30",
+   "departure_time": "05:57:40",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "KENFOLS",
+   "stop_sequence": 14,
+   "arrival_time": "04:48:21",
+   "departure_time": "05:58:31",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "KENWINS",
+   "stop_sequence": 15,
+   "arrival_time": "04:49:16",
+   "departure_time": "05:59:27",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "KENPARS",
+   "stop_sequence": 16,
+   "arrival_time": "05:00:13",
+   "departure_time": "06:00:14",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "KENMCCS",
+   "stop_sequence": 17,
+   "arrival_time": "05:01:00",
+   "departure_time": "06:01:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "KENMILS",
+   "stop_sequence": 18,
+   "arrival_time": "05:01:29",
+   "departure_time": "06:01:39",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "KENRUES",
+   "stop_sequence": 19,
+   "arrival_time": "05:01:33",
+   "departure_time": "06:02:44",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "NORCLEE",
+   "stop_sequence": 20,
+   "arrival_time": "05:02:18",
+   "departure_time": "06:03:28",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "NORSHAE",
+   "stop_sequence": 21,
+   "arrival_time": "05:02:42",
+   "departure_time": "06:03:53",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "NORENTE",
+   "stop_sequence": 22,
+   "arrival_time": "05:04:00",
+   "departure_time": "06:05:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "OLEUNIS",
+   "stop_sequence": 23,
+   "arrival_time": "05:06:04",
+   "departure_time": "06:07:05",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "OLERIVS1",
+   "stop_sequence": 24,
+   "arrival_time": "05:08:00",
+   "departure_time": "06:08:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "OLEHARS2",
+   "stop_sequence": 25,
+   "arrival_time": "05:08:36",
+   "departure_time": "06:08:47",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "OLE2825S",
+   "stop_sequence": 26,
+   "arrival_time": "05:09:06",
+   "departure_time": "06:09:07",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "OLEACKS",
+   "stop_sequence": 27,
+   "arrival_time": "05:09:36",
+   "departure_time": "06:09:47",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "OLEARGS",
+   "stop_sequence": 28,
+   "arrival_time": "05:10:22",
+   "departure_time": "06:10:33",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LANOLEE",
+   "stop_sequence": 29,
+   "arrival_time": "05:11:26",
+   "departure_time": "06:11:37",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LANTUTE",
+   "stop_sequence": 30,
+   "arrival_time": "05:11:19",
+   "departure_time": "06:12:29",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LANNEIE",
+   "stop_sequence": 31,
+   "arrival_time": "05:12:00",
+   "departure_time": "06:13:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIGLANS",
+   "stop_sequence": 32,
+   "arrival_time": "05:13:13",
+   "departure_time": "06:14:24",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIG18TS",
+   "stop_sequence": 33,
+   "arrival_time": "05:14:13",
+   "departure_time": "06:15:24",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIG15TS",
+   "stop_sequence": 34,
+   "arrival_time": "05:15:12",
+   "departure_time": "06:16:23",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIG13TS",
+   "stop_sequence": 35,
+   "arrival_time": "05:16:09",
+   "departure_time": "06:17:09",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIGCHIS",
+   "stop_sequence": 36,
+   "arrival_time": "05:18:00",
+   "departure_time": "06:18:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIG10TS",
+   "stop_sequence": 37,
+   "arrival_time": "05:18:31",
+   "departure_time": "06:18:41",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "NHIGMCMS",
+   "stop_sequence": 38,
+   "arrival_time": "05:19:26",
+   "departure_time": "06:19:37",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIGCLAS",
+   "stop_sequence": 39,
+   "arrival_time": "05:10:14",
+   "departure_time": "06:20:15",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIG5THS",
+   "stop_sequence": 40,
+   "arrival_time": "05:11:00",
+   "departure_time": "06:21:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIG4THS",
+   "stop_sequence": 41,
+   "arrival_time": "05:11:23",
+   "departure_time": "06:21:34",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "NHIW2S",
+   "stop_sequence": 42,
+   "arrival_time": "05:11:22",
+   "departure_time": "06:22:33",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIGHUBS",
+   "stop_sequence": 43,
+   "arrival_time": "05:12:26",
+   "departure_time": "06:23:37",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIGRUSS",
+   "stop_sequence": 44,
+   "arrival_time": "05:13:30",
+   "departure_time": "06:24:40",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIGSWANS",
+   "stop_sequence": 45,
+   "arrival_time": "05:14:11",
+   "departure_time": "06:25:22",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIGOHIS",
+   "stop_sequence": 46,
+   "arrival_time": "05:15:18",
+   "departure_time": "06:26:18",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIGNATS",
+   "stop_sequence": 47,
+   "arrival_time": "05:16:00",
+   "departure_time": "06:27:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIGLONS",
+   "stop_sequence": 48,
+   "arrival_time": "05:18:00",
+   "departure_time": "06:28:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIGBROS",
+   "stop_sequence": 49,
+   "arrival_time": "05:20:00",
+   "departure_time": "06:30:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIGSTAS",
+   "stop_sequence": 50,
+   "arrival_time": "05:21:16",
+   "departure_time": "06:31:27",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIGTOWS",
+   "stop_sequence": 51,
+   "arrival_time": "05:21:31",
+   "departure_time": "06:32:42",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIGMAIS2",
+   "stop_sequence": 52,
+   "arrival_time": "05:23:09",
+   "departure_time": "06:34:09",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "HIGMOUS",
+   "stop_sequence": 53,
+   "arrival_time": "05:24:00",
+   "departure_time": "06:35:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIV3RDE",
+   "stop_sequence": 54,
+   "arrival_time": "05:25:01",
+   "departure_time": "06:36:01",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIV4THE",
+   "stop_sequence": 55,
+   "arrival_time": "05:25:35",
+   "departure_time": "06:36:46",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIV6THE",
+   "stop_sequence": 56,
+   "arrival_time": "05:26:15",
+   "departure_time": "06:37:16",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVGRANE",
+   "stop_sequence": 57,
+   "arrival_time": "05:26:31",
+   "departure_time": "06:37:41",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVPARE",
+   "stop_sequence": 58,
+   "arrival_time": "05:29:00",
+   "departure_time": "06:39:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVANNE",
+   "stop_sequence": 59,
+   "arrival_time": "05:29:11",
+   "departure_time": "06:39:22",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIV18TE",
+   "stop_sequence": 60,
+   "arrival_time": "05:29:34",
+   "departure_time": "06:39:45",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVCARE",
+   "stop_sequence": 61,
+   "arrival_time": "05:30:09",
+   "departure_time": "06:40:09",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIV22NE",
+   "stop_sequence": 62,
+   "arrival_time": "05:30:26",
+   "departure_time": "06:40:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVCHAE",
+   "stop_sequence": 63,
+   "arrival_time": "05:31:00",
+   "departure_time": "06:41:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVWILE",
+   "stop_sequence": 64,
+   "arrival_time": "05:31:20",
+   "departure_time": "06:41:30",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVSTUE",
+   "stop_sequence": 65,
+   "arrival_time": "05:31:04",
+   "departure_time": "06:42:05",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVKELE",
+   "stop_sequence": 66,
+   "arrival_time": "05:32:00",
+   "departure_time": "06:43:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVBERE",
+   "stop_sequence": 67,
+   "arrival_time": "05:32:14",
+   "departure_time": "06:43:25",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVBULE",
+   "stop_sequence": 68,
+   "arrival_time": "05:33:18",
+   "departure_time": "06:44:18",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVRHOE",
+   "stop_sequence": 69,
+   "arrival_time": "05:33:29",
+   "departure_time": "06:44:39",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVMEME",
+   "stop_sequence": 70,
+   "arrival_time": "05:34:08",
+   "departure_time": "06:45:08",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVMAYE",
+   "stop_sequence": 71,
+   "arrival_time": "05:35:06",
+   "departure_time": "06:46:07",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVCOLE",
+   "stop_sequence": 72,
+   "arrival_time": "05:36:00",
+   "departure_time": "06:47:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVCASE",
+   "stop_sequence": 73,
+   "arrival_time": "05:36:19",
+   "departure_time": "06:47:29",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVROOE",
+   "stop_sequence": 74,
+   "arrival_time": "05:38:04",
+   "departure_time": "06:48:05",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVCHEE",
+   "stop_sequence": 75,
+   "arrival_time": "05:38:19",
+   "departure_time": "06:48:29",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVBROE1",
+   "stop_sequence": 76,
+   "arrival_time": "05:38:43",
+   "departure_time": "06:48:54",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVWELE",
+   "stop_sequence": 77,
+   "arrival_time": "05:39:16",
+   "departure_time": "06:49:17",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVKELE1",
+   "stop_sequence": 78,
+   "arrival_time": "05:39:25",
+   "departure_time": "06:49:36",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVJAME",
+   "stop_sequence": 79,
+   "arrival_time": "05:40:00",
+   "departure_time": "06:50:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVZETE",
+   "stop_sequence": 80,
+   "arrival_time": "05:40:34",
+   "departure_time": "06:50:45",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVBARE",
+   "stop_sequence": 81,
+   "arrival_time": "05:41:12",
+   "departure_time": "06:51:23",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVCUNE",
+   "stop_sequence": 82,
+   "arrival_time": "05:41:01",
+   "departure_time": "06:52:02",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVCOUE",
+   "stop_sequence": 83,
+   "arrival_time": "05:41:42",
+   "departure_time": "06:52:53",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVBEEE",
+   "stop_sequence": 84,
+   "arrival_time": "05:42:12",
+   "departure_time": "06:53:13",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVVILE",
+   "stop_sequence": 85,
+   "arrival_time": "05:42:25",
+   "departure_time": "06:53:36",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVYEAE",
+   "stop_sequence": 86,
+   "arrival_time": "05:43:11",
+   "departure_time": "06:54:11",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVBURE",
+   "stop_sequence": 87,
+   "arrival_time": "05:43:42",
+   "departure_time": "06:54:53",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVGRAE",
+   "stop_sequence": 88,
+   "arrival_time": "05:44:15",
+   "departure_time": "06:55:26",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVHAME",
+   "stop_sequence": 89,
+   "arrival_time": "05:45:00",
+   "departure_time": "06:56:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVSHAE",
+   "stop_sequence": 90,
+   "arrival_time": "05:45:35",
+   "departure_time": "06:56:46",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVLATE",
+   "stop_sequence": 91,
+   "arrival_time": "05:46:16",
+   "departure_time": "06:57:27",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVNOEE",
+   "stop_sequence": 92,
+   "arrival_time": "05:49:21",
+   "departure_time": "06:59:32",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVLONE",
+   "stop_sequence": 93,
+   "arrival_time": "06:00:00",
+   "departure_time": "07:00:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVBAIE",
+   "stop_sequence": 94,
+   "arrival_time": "06:01:18",
+   "departure_time": "07:01:28",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVQUAE",
+   "stop_sequence": 95,
+   "arrival_time": "06:01:10",
+   "departure_time": "07:02:10",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVWALE",
+   "stop_sequence": 96,
+   "arrival_time": "06:01:45",
+   "departure_time": "07:02:56",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVSARE",
+   "stop_sequence": 97,
+   "arrival_time": "06:02:20",
+   "departure_time": "07:03:30",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "LIVBRIE",
+   "stop_sequence": 98,
+   "arrival_time": "06:03:31",
+   "departure_time": "07:04:41",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "EASOFFE",
+   "stop_sequence": 99,
+   "arrival_time": "06:05:06",
+   "departure_time": "07:06:07",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751387,
+   "stop_id": "REYRIDSW",
+   "stop_sequence": 100,
+   "arrival_time": "06:06:00",
+   "departure_time": "07:07:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "PICBETS",
+   "stop_sequence": 1,
+   "arrival_time": "04:49:00",
+   "departure_time": "05:59:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "2425BET",
+   "stop_sequence": 2,
+   "arrival_time": "04:49:42",
+   "departure_time": "05:59:53",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "BETWOOE",
+   "stop_sequence": 3,
+   "arrival_time": "05:00:24",
+   "departure_time": "06:00:35",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "BETHEDE",
+   "stop_sequence": 4,
+   "arrival_time": "05:01:16",
+   "departure_time": "06:01:17",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "BETDIEE",
+   "stop_sequence": 5,
+   "arrival_time": "05:01:00",
+   "departure_time": "06:02:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "BETOLGE",
+   "stop_sequence": 6,
+   "arrival_time": "05:01:26",
+   "departure_time": "06:02:37",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "BETREEE",
+   "stop_sequence": 7,
+   "arrival_time": "05:02:18",
+   "departure_time": "06:03:18",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "BETPORE",
+   "stop_sequence": 8,
+   "arrival_time": "05:02:48",
+   "departure_time": "06:03:58",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "GODBETS",
+   "stop_sequence": 9,
+   "arrival_time": "05:03:43",
+   "departure_time": "06:04:54",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "GODLANSE",
+   "stop_sequence": 10,
+   "arrival_time": "05:04:24",
+   "departure_time": "06:05:35",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "GODCHEE",
+   "stop_sequence": 11,
+   "arrival_time": "05:05:00",
+   "departure_time": "06:06:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "KENWEYS",
+   "stop_sequence": 12,
+   "arrival_time": "05:06:02",
+   "departure_time": "06:07:03",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "KENMERS",
+   "stop_sequence": 13,
+   "arrival_time": "05:06:30",
+   "departure_time": "06:07:40",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "KENFOLS",
+   "stop_sequence": 14,
+   "arrival_time": "05:08:21",
+   "departure_time": "06:08:31",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "KENWINS",
+   "stop_sequence": 15,
+   "arrival_time": "05:09:16",
+   "departure_time": "06:09:27",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "KENPARS",
+   "stop_sequence": 16,
+   "arrival_time": "05:10:13",
+   "departure_time": "06:10:14",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "KENMCCS",
+   "stop_sequence": 17,
+   "arrival_time": "05:11:00",
+   "departure_time": "06:11:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "KENMILS",
+   "stop_sequence": 18,
+   "arrival_time": "05:11:29",
+   "departure_time": "06:11:39",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "KENRUES",
+   "stop_sequence": 19,
+   "arrival_time": "05:11:33",
+   "departure_time": "06:12:44",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "NORCLEE",
+   "stop_sequence": 20,
+   "arrival_time": "05:12:18",
+   "departure_time": "06:13:28",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "NORSHAE",
+   "stop_sequence": 21,
+   "arrival_time": "05:12:42",
+   "departure_time": "06:13:53",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "NORENTE",
+   "stop_sequence": 22,
+   "arrival_time": "05:14:00",
+   "departure_time": "06:15:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "OLEUNIS",
+   "stop_sequence": 23,
+   "arrival_time": "05:16:04",
+   "departure_time": "06:17:05",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "OLERIVS1",
+   "stop_sequence": 24,
+   "arrival_time": "05:18:00",
+   "departure_time": "06:18:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "OLEHARS2",
+   "stop_sequence": 25,
+   "arrival_time": "05:18:36",
+   "departure_time": "06:18:47",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "OLE2825S",
+   "stop_sequence": 26,
+   "arrival_time": "05:19:06",
+   "departure_time": "06:19:07",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "OLEACKS",
+   "stop_sequence": 27,
+   "arrival_time": "05:19:36",
+   "departure_time": "06:19:47",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "OLEARGS",
+   "stop_sequence": 28,
+   "arrival_time": "05:10:22",
+   "departure_time": "06:20:33",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LANOLEE",
+   "stop_sequence": 29,
+   "arrival_time": "05:11:26",
+   "departure_time": "06:21:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LANTUTE",
+   "stop_sequence": 30,
+   "arrival_time": "05:11:19",
+   "departure_time": "06:22:29",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LANNEIE",
+   "stop_sequence": 31,
+   "arrival_time": "05:12:00",
+   "departure_time": "06:23:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIGLANS",
+   "stop_sequence": 32,
+   "arrival_time": "05:13:13",
+   "departure_time": "06:24:24",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIG18TS",
+   "stop_sequence": 33,
+   "arrival_time": "05:14:13",
+   "departure_time": "06:25:24",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIG15TS",
+   "stop_sequence": 34,
+   "arrival_time": "05:15:12",
+   "departure_time": "06:26:23",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIG13TS",
+   "stop_sequence": 35,
+   "arrival_time": "05:16:09",
+   "departure_time": "06:27:09",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIGCHIS",
+   "stop_sequence": 36,
+   "arrival_time": "05:18:00",
+   "departure_time": "06:28:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIG10TS",
+   "stop_sequence": 37,
+   "arrival_time": "05:18:31",
+   "departure_time": "06:28:41",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "NHIGMCMS",
+   "stop_sequence": 38,
+   "arrival_time": "05:19:26",
+   "departure_time": "06:29:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIGCLAS",
+   "stop_sequence": 39,
+   "arrival_time": "05:20:14",
+   "departure_time": "06:30:15",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIG5THS",
+   "stop_sequence": 40,
+   "arrival_time": "05:21:00",
+   "departure_time": "06:31:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIG4THS",
+   "stop_sequence": 41,
+   "arrival_time": "05:21:23",
+   "departure_time": "06:31:34",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "NHIW2S",
+   "stop_sequence": 42,
+   "arrival_time": "05:21:22",
+   "departure_time": "06:32:33",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIGHUBS",
+   "stop_sequence": 43,
+   "arrival_time": "05:22:26",
+   "departure_time": "06:33:37",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIGRUSS",
+   "stop_sequence": 44,
+   "arrival_time": "05:23:30",
+   "departure_time": "06:34:40",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIGSWANS",
+   "stop_sequence": 45,
+   "arrival_time": "05:24:11",
+   "departure_time": "06:35:22",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIGOHIS",
+   "stop_sequence": 46,
+   "arrival_time": "05:25:18",
+   "departure_time": "06:36:18",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIGNATS",
+   "stop_sequence": 47,
+   "arrival_time": "05:26:00",
+   "departure_time": "06:37:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIGLONS",
+   "stop_sequence": 48,
+   "arrival_time": "05:28:00",
+   "departure_time": "06:38:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIGBROS",
+   "stop_sequence": 49,
+   "arrival_time": "05:30:00",
+   "departure_time": "06:40:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIGSTAS",
+   "stop_sequence": 50,
+   "arrival_time": "05:31:16",
+   "departure_time": "06:41:27",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIGTOWS",
+   "stop_sequence": 51,
+   "arrival_time": "05:31:31",
+   "departure_time": "06:42:42",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIGMAIS2",
+   "stop_sequence": 52,
+   "arrival_time": "05:33:09",
+   "departure_time": "06:44:09",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "HIGMOUS",
+   "stop_sequence": 53,
+   "arrival_time": "05:34:00",
+   "departure_time": "06:45:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIV3RDE",
+   "stop_sequence": 54,
+   "arrival_time": "05:35:01",
+   "departure_time": "06:46:01",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIV4THE",
+   "stop_sequence": 55,
+   "arrival_time": "05:35:35",
+   "departure_time": "06:46:46",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIV6THE",
+   "stop_sequence": 56,
+   "arrival_time": "05:36:15",
+   "departure_time": "06:47:16",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVGRANE",
+   "stop_sequence": 57,
+   "arrival_time": "05:36:31",
+   "departure_time": "06:47:41",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVPARE",
+   "stop_sequence": 58,
+   "arrival_time": "05:39:00",
+   "departure_time": "06:49:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVANNE",
+   "stop_sequence": 59,
+   "arrival_time": "05:39:11",
+   "departure_time": "06:49:22",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIV18TE",
+   "stop_sequence": 60,
+   "arrival_time": "05:39:34",
+   "departure_time": "06:49:45",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVCARE",
+   "stop_sequence": 61,
+   "arrival_time": "05:40:09",
+   "departure_time": "06:50:09",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIV22NE",
+   "stop_sequence": 62,
+   "arrival_time": "05:40:26",
+   "departure_time": "06:50:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVCHAE",
+   "stop_sequence": 63,
+   "arrival_time": "05:41:00",
+   "departure_time": "06:51:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVWILE",
+   "stop_sequence": 64,
+   "arrival_time": "05:41:20",
+   "departure_time": "06:51:30",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVSTUE",
+   "stop_sequence": 65,
+   "arrival_time": "05:41:04",
+   "departure_time": "06:52:05",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVKELE",
+   "stop_sequence": 66,
+   "arrival_time": "05:42:00",
+   "departure_time": "06:53:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVBERE",
+   "stop_sequence": 67,
+   "arrival_time": "05:42:14",
+   "departure_time": "06:53:25",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVBULE",
+   "stop_sequence": 68,
+   "arrival_time": "05:43:18",
+   "departure_time": "06:54:18",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVRHOE",
+   "stop_sequence": 69,
+   "arrival_time": "05:43:29",
+   "departure_time": "06:54:39",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVMEME",
+   "stop_sequence": 70,
+   "arrival_time": "05:44:08",
+   "departure_time": "06:55:08",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVMAYE",
+   "stop_sequence": 71,
+   "arrival_time": "05:45:06",
+   "departure_time": "06:56:07",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVCOLE",
+   "stop_sequence": 72,
+   "arrival_time": "05:46:00",
+   "departure_time": "06:57:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVCASE",
+   "stop_sequence": 73,
+   "arrival_time": "05:46:19",
+   "departure_time": "06:57:29",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVROOE",
+   "stop_sequence": 74,
+   "arrival_time": "05:48:04",
+   "departure_time": "06:58:05",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVCHEE",
+   "stop_sequence": 75,
+   "arrival_time": "05:48:19",
+   "departure_time": "06:58:29",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVBROE1",
+   "stop_sequence": 76,
+   "arrival_time": "05:48:43",
+   "departure_time": "06:58:54",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVWELE",
+   "stop_sequence": 77,
+   "arrival_time": "05:49:16",
+   "departure_time": "06:59:17",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVKELE1",
+   "stop_sequence": 78,
+   "arrival_time": "05:49:25",
+   "departure_time": "06:59:36",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVJAME",
+   "stop_sequence": 79,
+   "arrival_time": "06:00:00",
+   "departure_time": "07:00:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVZETE",
+   "stop_sequence": 80,
+   "arrival_time": "06:00:34",
+   "departure_time": "07:00:45",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVBARE",
+   "stop_sequence": 81,
+   "arrival_time": "06:01:12",
+   "departure_time": "07:01:23",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVCUNE",
+   "stop_sequence": 82,
+   "arrival_time": "06:01:01",
+   "departure_time": "07:02:02",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVCOUE",
+   "stop_sequence": 83,
+   "arrival_time": "06:01:42",
+   "departure_time": "07:02:53",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVBEEE",
+   "stop_sequence": 84,
+   "arrival_time": "06:02:12",
+   "departure_time": "07:03:13",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVVILE",
+   "stop_sequence": 85,
+   "arrival_time": "06:02:25",
+   "departure_time": "07:03:36",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVYEAE",
+   "stop_sequence": 86,
+   "arrival_time": "06:03:11",
+   "departure_time": "07:04:11",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVBURE",
+   "stop_sequence": 87,
+   "arrival_time": "06:03:42",
+   "departure_time": "07:04:53",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVGRAE",
+   "stop_sequence": 88,
+   "arrival_time": "06:04:15",
+   "departure_time": "07:05:26",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVHAME",
+   "stop_sequence": 89,
+   "arrival_time": "06:05:00",
+   "departure_time": "07:06:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVSHAE",
+   "stop_sequence": 90,
+   "arrival_time": "06:05:35",
+   "departure_time": "07:06:46",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVLATE",
+   "stop_sequence": 91,
+   "arrival_time": "06:06:16",
+   "departure_time": "07:07:27",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVNOEE",
+   "stop_sequence": 92,
+   "arrival_time": "06:09:21",
+   "departure_time": "07:09:32",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVLONE",
+   "stop_sequence": 93,
+   "arrival_time": "06:10:00",
+   "departure_time": "07:10:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVBAIE",
+   "stop_sequence": 94,
+   "arrival_time": "06:11:18",
+   "departure_time": "07:11:28",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVQUAE",
+   "stop_sequence": 95,
+   "arrival_time": "06:11:10",
+   "departure_time": "07:12:10",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVWALE",
+   "stop_sequence": 96,
+   "arrival_time": "06:11:45",
+   "departure_time": "07:12:56",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVSARE",
+   "stop_sequence": 97,
+   "arrival_time": "06:12:20",
+   "departure_time": "07:13:30",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "LIVBRIE",
+   "stop_sequence": 98,
+   "arrival_time": "06:13:31",
+   "departure_time": "07:14:41",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "EASOFFE",
+   "stop_sequence": 99,
+   "arrival_time": "06:15:06",
+   "departure_time": "07:16:07",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751388,
+   "stop_id": "REYRIDSW",
+   "stop_sequence": 100,
+   "arrival_time": "06:16:00",
+   "departure_time": "07:17:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "PICBETS",
+   "stop_sequence": 1,
+   "arrival_time": "05:08:00",
+   "departure_time": "06:08:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "2425BET",
+   "stop_sequence": 2,
+   "arrival_time": "05:08:42",
+   "departure_time": "06:08:53",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "BETWOOE",
+   "stop_sequence": 3,
+   "arrival_time": "05:09:24",
+   "departure_time": "06:09:35",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "BETHEDE",
+   "stop_sequence": 4,
+   "arrival_time": "05:10:16",
+   "departure_time": "06:10:17",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "BETDIEE",
+   "stop_sequence": 5,
+   "arrival_time": "05:11:00",
+   "departure_time": "06:11:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "BETOLGE",
+   "stop_sequence": 6,
+   "arrival_time": "05:11:26",
+   "departure_time": "06:11:37",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "BETREEE",
+   "stop_sequence": 7,
+   "arrival_time": "05:11:18",
+   "departure_time": "06:12:18",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "BETPORE",
+   "stop_sequence": 8,
+   "arrival_time": "05:11:48",
+   "departure_time": "06:12:58",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "GODBETS",
+   "stop_sequence": 9,
+   "arrival_time": "05:12:43",
+   "departure_time": "06:13:54",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "GODLANSE",
+   "stop_sequence": 10,
+   "arrival_time": "05:13:24",
+   "departure_time": "06:14:35",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "GODCHEE",
+   "stop_sequence": 11,
+   "arrival_time": "05:14:00",
+   "departure_time": "06:15:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "KENWEYS",
+   "stop_sequence": 12,
+   "arrival_time": "05:15:02",
+   "departure_time": "06:16:03",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "KENMERS",
+   "stop_sequence": 13,
+   "arrival_time": "05:15:30",
+   "departure_time": "06:16:40",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "KENFOLS",
+   "stop_sequence": 14,
+   "arrival_time": "05:16:21",
+   "departure_time": "06:17:31",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "KENWINS",
+   "stop_sequence": 15,
+   "arrival_time": "05:18:16",
+   "departure_time": "06:18:27",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "KENPARS",
+   "stop_sequence": 16,
+   "arrival_time": "05:19:13",
+   "departure_time": "06:19:14",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "KENMCCS",
+   "stop_sequence": 17,
+   "arrival_time": "05:10:00",
+   "departure_time": "06:20:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "KENMILS",
+   "stop_sequence": 18,
+   "arrival_time": "05:10:29",
+   "departure_time": "06:20:39",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "KENRUES",
+   "stop_sequence": 19,
+   "arrival_time": "05:11:33",
+   "departure_time": "06:21:44",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "NORCLEE",
+   "stop_sequence": 20,
+   "arrival_time": "05:11:18",
+   "departure_time": "06:22:28",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "NORSHAE",
+   "stop_sequence": 21,
+   "arrival_time": "05:11:42",
+   "departure_time": "06:22:53",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "NORENTE",
+   "stop_sequence": 22,
+   "arrival_time": "05:13:00",
+   "departure_time": "06:24:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "OLEUNIS",
+   "stop_sequence": 23,
+   "arrival_time": "05:15:04",
+   "departure_time": "06:26:05",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "OLERIVS1",
+   "stop_sequence": 24,
+   "arrival_time": "05:16:00",
+   "departure_time": "06:27:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "OLEHARS2",
+   "stop_sequence": 25,
+   "arrival_time": "05:16:36",
+   "departure_time": "06:27:47",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "OLE2825S",
+   "stop_sequence": 26,
+   "arrival_time": "05:18:06",
+   "departure_time": "06:28:07",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "OLEACKS",
+   "stop_sequence": 27,
+   "arrival_time": "05:18:36",
+   "departure_time": "06:28:47",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "OLEARGS",
+   "stop_sequence": 28,
+   "arrival_time": "05:19:22",
+   "departure_time": "06:29:33",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LANOLEE",
+   "stop_sequence": 29,
+   "arrival_time": "05:20:26",
+   "departure_time": "06:30:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LANTUTE",
+   "stop_sequence": 30,
+   "arrival_time": "05:21:19",
+   "departure_time": "06:31:29",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LANNEIE",
+   "stop_sequence": 31,
+   "arrival_time": "05:21:00",
+   "departure_time": "06:32:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIGLANS",
+   "stop_sequence": 32,
+   "arrival_time": "05:22:13",
+   "departure_time": "06:33:24",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIG18TS",
+   "stop_sequence": 33,
+   "arrival_time": "05:23:13",
+   "departure_time": "06:34:24",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIG15TS",
+   "stop_sequence": 34,
+   "arrival_time": "05:24:12",
+   "departure_time": "06:35:23",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIG13TS",
+   "stop_sequence": 35,
+   "arrival_time": "05:25:09",
+   "departure_time": "06:36:09",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIGCHIS",
+   "stop_sequence": 36,
+   "arrival_time": "05:26:00",
+   "departure_time": "06:37:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIG10TS",
+   "stop_sequence": 37,
+   "arrival_time": "05:26:44",
+   "departure_time": "06:37:55",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "NHIGMCMS",
+   "stop_sequence": 38,
+   "arrival_time": "05:29:09",
+   "departure_time": "06:39:09",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIGCLAS",
+   "stop_sequence": 39,
+   "arrival_time": "05:30:00",
+   "departure_time": "06:40:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIG5THS",
+   "stop_sequence": 40,
+   "arrival_time": "05:31:00",
+   "departure_time": "06:41:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIG4THS",
+   "stop_sequence": 41,
+   "arrival_time": "05:31:23",
+   "departure_time": "06:41:34",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "NHIW2S",
+   "stop_sequence": 42,
+   "arrival_time": "05:31:22",
+   "departure_time": "06:42:33",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIGHUBS",
+   "stop_sequence": 43,
+   "arrival_time": "05:32:26",
+   "departure_time": "06:43:37",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIGRUSS",
+   "stop_sequence": 44,
+   "arrival_time": "05:33:30",
+   "departure_time": "06:44:40",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIGSWANS",
+   "stop_sequence": 45,
+   "arrival_time": "05:34:11",
+   "departure_time": "06:45:22",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIGOHIS",
+   "stop_sequence": 46,
+   "arrival_time": "05:35:18",
+   "departure_time": "06:46:18",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIGNATS",
+   "stop_sequence": 47,
+   "arrival_time": "05:36:00",
+   "departure_time": "06:47:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIGLONS",
+   "stop_sequence": 48,
+   "arrival_time": "05:38:00",
+   "departure_time": "06:48:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIGBROS",
+   "stop_sequence": 49,
+   "arrival_time": "05:40:00",
+   "departure_time": "06:50:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIGSTAS",
+   "stop_sequence": 50,
+   "arrival_time": "05:41:16",
+   "departure_time": "06:51:27",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIGTOWS",
+   "stop_sequence": 51,
+   "arrival_time": "05:41:31",
+   "departure_time": "06:52:42",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIGMAIS2",
+   "stop_sequence": 52,
+   "arrival_time": "05:43:09",
+   "departure_time": "06:54:09",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "HIGMOUS",
+   "stop_sequence": 53,
+   "arrival_time": "05:44:00",
+   "departure_time": "06:55:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIV3RDE",
+   "stop_sequence": 54,
+   "arrival_time": "05:45:01",
+   "departure_time": "06:56:01",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIV4THE",
+   "stop_sequence": 55,
+   "arrival_time": "05:45:35",
+   "departure_time": "06:56:46",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIV6THE",
+   "stop_sequence": 56,
+   "arrival_time": "05:46:15",
+   "departure_time": "06:57:16",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVGRANE",
+   "stop_sequence": 57,
+   "arrival_time": "05:46:31",
+   "departure_time": "06:57:41",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVPARE",
+   "stop_sequence": 58,
+   "arrival_time": "05:49:00",
+   "departure_time": "06:59:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVANNE",
+   "stop_sequence": 59,
+   "arrival_time": "05:49:11",
+   "departure_time": "06:59:22",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIV18TE",
+   "stop_sequence": 60,
+   "arrival_time": "05:49:34",
+   "departure_time": "06:59:45",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVCARE",
+   "stop_sequence": 61,
+   "arrival_time": "06:00:09",
+   "departure_time": "07:00:09",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIV22NE",
+   "stop_sequence": 62,
+   "arrival_time": "06:00:26",
+   "departure_time": "07:00:37",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVCHAE",
+   "stop_sequence": 63,
+   "arrival_time": "06:01:00",
+   "departure_time": "07:01:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVWILE",
+   "stop_sequence": 64,
+   "arrival_time": "06:01:20",
+   "departure_time": "07:01:30",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVSTUE",
+   "stop_sequence": 65,
+   "arrival_time": "06:01:04",
+   "departure_time": "07:02:05",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVKELE",
+   "stop_sequence": 66,
+   "arrival_time": "06:02:00",
+   "departure_time": "07:03:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVBERE",
+   "stop_sequence": 67,
+   "arrival_time": "06:02:14",
+   "departure_time": "07:03:25",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVBULE",
+   "stop_sequence": 68,
+   "arrival_time": "06:03:18",
+   "departure_time": "07:04:18",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVRHOE",
+   "stop_sequence": 69,
+   "arrival_time": "06:03:29",
+   "departure_time": "07:04:39",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVMEME",
+   "stop_sequence": 70,
+   "arrival_time": "06:04:08",
+   "departure_time": "07:05:08",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVMAYE",
+   "stop_sequence": 71,
+   "arrival_time": "06:05:06",
+   "departure_time": "07:06:07",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVCOLE",
+   "stop_sequence": 72,
+   "arrival_time": "06:06:00",
+   "departure_time": "07:07:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVCASE",
+   "stop_sequence": 73,
+   "arrival_time": "06:06:19",
+   "departure_time": "07:07:29",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVROOE",
+   "stop_sequence": 74,
+   "arrival_time": "06:08:04",
+   "departure_time": "07:08:05",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVCHEE",
+   "stop_sequence": 75,
+   "arrival_time": "06:08:19",
+   "departure_time": "07:08:29",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVBROE1",
+   "stop_sequence": 76,
+   "arrival_time": "06:08:43",
+   "departure_time": "07:08:54",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVWELE",
+   "stop_sequence": 77,
+   "arrival_time": "06:09:16",
+   "departure_time": "07:09:17",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVKELE1",
+   "stop_sequence": 78,
+   "arrival_time": "06:09:25",
+   "departure_time": "07:09:36",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVJAME",
+   "stop_sequence": 79,
+   "arrival_time": "06:10:00",
+   "departure_time": "07:10:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVZETE",
+   "stop_sequence": 80,
+   "arrival_time": "06:10:34",
+   "departure_time": "07:10:45",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVBARE",
+   "stop_sequence": 81,
+   "arrival_time": "06:11:12",
+   "departure_time": "07:11:23",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVCUNE",
+   "stop_sequence": 82,
+   "arrival_time": "06:11:01",
+   "departure_time": "07:12:02",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVCOUE",
+   "stop_sequence": 83,
+   "arrival_time": "06:11:42",
+   "departure_time": "07:12:53",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVBEEE",
+   "stop_sequence": 84,
+   "arrival_time": "06:12:12",
+   "departure_time": "07:13:13",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVVILE",
+   "stop_sequence": 85,
+   "arrival_time": "06:12:25",
+   "departure_time": "07:13:36",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVYEAE",
+   "stop_sequence": 86,
+   "arrival_time": "06:13:11",
+   "departure_time": "07:14:11",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVBURE",
+   "stop_sequence": 87,
+   "arrival_time": "06:13:42",
+   "departure_time": "07:14:53",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVGRAE",
+   "stop_sequence": 88,
+   "arrival_time": "06:14:15",
+   "departure_time": "07:15:26",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVHAME",
+   "stop_sequence": 89,
+   "arrival_time": "06:15:00",
+   "departure_time": "07:16:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVSHAE",
+   "stop_sequence": 90,
+   "arrival_time": "06:15:35",
+   "departure_time": "07:16:46",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVLATE",
+   "stop_sequence": 91,
+   "arrival_time": "06:16:16",
+   "departure_time": "07:17:27",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVNOEE",
+   "stop_sequence": 92,
+   "arrival_time": "06:19:21",
+   "departure_time": "07:19:32",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVLONE",
+   "stop_sequence": 93,
+   "arrival_time": "06:10:00",
+   "departure_time": "07:20:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVBAIE",
+   "stop_sequence": 94,
+   "arrival_time": "06:11:18",
+   "departure_time": "07:21:28",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVQUAE",
+   "stop_sequence": 95,
+   "arrival_time": "06:11:10",
+   "departure_time": "07:22:10",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVWALE",
+   "stop_sequence": 96,
+   "arrival_time": "06:11:45",
+   "departure_time": "07:22:56",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVSARE",
+   "stop_sequence": 97,
+   "arrival_time": "06:12:20",
+   "departure_time": "07:23:30",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "LIVBRIE",
+   "stop_sequence": 98,
+   "arrival_time": "06:13:31",
+   "departure_time": "07:24:41",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "EASOFFE",
+   "stop_sequence": 99,
+   "arrival_time": "06:15:06",
+   "departure_time": "07:26:07",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751389,
+   "stop_id": "REYRIDSW",
+   "stop_sequence": 100,
+   "arrival_time": "06:16:00",
+   "departure_time": "07:27:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "PICBETS",
+   "stop_sequence": 1,
+   "arrival_time": "05:18:00",
+   "departure_time": "06:18:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "2425BET",
+   "stop_sequence": 2,
+   "arrival_time": "05:18:42",
+   "departure_time": "06:18:53",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "BETWOOE",
+   "stop_sequence": 3,
+   "arrival_time": "05:19:24",
+   "departure_time": "06:19:35",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "BETHEDE",
+   "stop_sequence": 4,
+   "arrival_time": "05:10:16",
+   "departure_time": "06:20:17",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "BETDIEE",
+   "stop_sequence": 5,
+   "arrival_time": "05:11:00",
+   "departure_time": "06:21:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "BETOLGE",
+   "stop_sequence": 6,
+   "arrival_time": "05:11:26",
+   "departure_time": "06:21:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "BETREEE",
+   "stop_sequence": 7,
+   "arrival_time": "05:11:18",
+   "departure_time": "06:22:18",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "BETPORE",
+   "stop_sequence": 8,
+   "arrival_time": "05:11:48",
+   "departure_time": "06:22:58",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "GODBETS",
+   "stop_sequence": 9,
+   "arrival_time": "05:12:43",
+   "departure_time": "06:23:54",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "GODLANSE",
+   "stop_sequence": 10,
+   "arrival_time": "05:13:24",
+   "departure_time": "06:24:35",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "GODCHEE",
+   "stop_sequence": 11,
+   "arrival_time": "05:14:00",
+   "departure_time": "06:25:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "KENWEYS",
+   "stop_sequence": 12,
+   "arrival_time": "05:15:02",
+   "departure_time": "06:26:03",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "KENMERS",
+   "stop_sequence": 13,
+   "arrival_time": "05:15:30",
+   "departure_time": "06:26:40",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "KENFOLS",
+   "stop_sequence": 14,
+   "arrival_time": "05:16:21",
+   "departure_time": "06:27:31",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "KENWINS",
+   "stop_sequence": 15,
+   "arrival_time": "05:18:16",
+   "departure_time": "06:28:27",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "KENPARS",
+   "stop_sequence": 16,
+   "arrival_time": "05:19:13",
+   "departure_time": "06:29:14",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "KENMCCS",
+   "stop_sequence": 17,
+   "arrival_time": "05:20:00",
+   "departure_time": "06:30:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "KENMILS",
+   "stop_sequence": 18,
+   "arrival_time": "05:20:29",
+   "departure_time": "06:30:39",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "KENRUES",
+   "stop_sequence": 19,
+   "arrival_time": "05:21:33",
+   "departure_time": "06:31:44",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "NORCLEE",
+   "stop_sequence": 20,
+   "arrival_time": "05:21:18",
+   "departure_time": "06:32:28",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "NORSHAE",
+   "stop_sequence": 21,
+   "arrival_time": "05:21:42",
+   "departure_time": "06:32:53",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "NORENTE",
+   "stop_sequence": 22,
+   "arrival_time": "05:23:00",
+   "departure_time": "06:34:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "OLEUNIS",
+   "stop_sequence": 23,
+   "arrival_time": "05:25:04",
+   "departure_time": "06:36:05",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "OLERIVS1",
+   "stop_sequence": 24,
+   "arrival_time": "05:26:00",
+   "departure_time": "06:37:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "OLEHARS2",
+   "stop_sequence": 25,
+   "arrival_time": "05:26:36",
+   "departure_time": "06:37:47",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "OLE2825S",
+   "stop_sequence": 26,
+   "arrival_time": "05:28:06",
+   "departure_time": "06:38:07",
+   "ETA": "11:00:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "OLEACKS",
+   "stop_sequence": 27,
+   "arrival_time": "05:28:36",
+   "departure_time": "06:38:47",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "OLEARGS",
+   "stop_sequence": 28,
+   "arrival_time": "05:29:22",
+   "departure_time": "06:39:33",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LANOLEE",
+   "stop_sequence": 29,
+   "arrival_time": "05:30:26",
+   "departure_time": "06:40:37",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LANTUTE",
+   "stop_sequence": 30,
+   "arrival_time": "05:31:19",
+   "departure_time": "06:41:29",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LANNEIE",
+   "stop_sequence": 31,
+   "arrival_time": "05:31:00",
+   "departure_time": "06:42:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIGLANS",
+   "stop_sequence": 32,
+   "arrival_time": "05:32:13",
+   "departure_time": "06:43:24",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIG18TS",
+   "stop_sequence": 33,
+   "arrival_time": "05:33:13",
+   "departure_time": "06:44:24",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIG15TS",
+   "stop_sequence": 34,
+   "arrival_time": "05:34:12",
+   "departure_time": "06:45:23",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIG13TS",
+   "stop_sequence": 35,
+   "arrival_time": "05:35:09",
+   "departure_time": "06:46:09",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIGCHIS",
+   "stop_sequence": 36,
+   "arrival_time": "05:36:00",
+   "departure_time": "06:47:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIG10TS",
+   "stop_sequence": 37,
+   "arrival_time": "05:36:44",
+   "departure_time": "06:47:55",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "NHIGMCMS",
+   "stop_sequence": 38,
+   "arrival_time": "05:39:09",
+   "departure_time": "06:49:09",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIGCLAS",
+   "stop_sequence": 39,
+   "arrival_time": "05:40:00",
+   "departure_time": "06:50:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIG5THS",
+   "stop_sequence": 40,
+   "arrival_time": "05:41:00",
+   "departure_time": "06:51:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIG4THS",
+   "stop_sequence": 41,
+   "arrival_time": "05:41:23",
+   "departure_time": "06:51:34",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "NHIW2S",
+   "stop_sequence": 42,
+   "arrival_time": "05:41:22",
+   "departure_time": "06:52:33",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIGHUBS",
+   "stop_sequence": 43,
+   "arrival_time": "05:42:26",
+   "departure_time": "06:53:37",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIGRUSS",
+   "stop_sequence": 44,
+   "arrival_time": "05:43:30",
+   "departure_time": "06:54:40",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIGSWANS",
+   "stop_sequence": 45,
+   "arrival_time": "05:44:11",
+   "departure_time": "06:55:22",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIGOHIS",
+   "stop_sequence": 46,
+   "arrival_time": "05:45:18",
+   "departure_time": "06:56:18",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIGNATS",
+   "stop_sequence": 47,
+   "arrival_time": "05:46:00",
+   "departure_time": "06:57:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIGLONS",
+   "stop_sequence": 48,
+   "arrival_time": "05:48:00",
+   "departure_time": "06:58:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIGBROS",
+   "stop_sequence": 49,
+   "arrival_time": "06:00:00",
+   "departure_time": "07:00:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIGSTAS",
+   "stop_sequence": 50,
+   "arrival_time": "06:01:16",
+   "departure_time": "07:01:27",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIGTOWS",
+   "stop_sequence": 51,
+   "arrival_time": "06:01:31",
+   "departure_time": "07:02:42",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIGMAIS2",
+   "stop_sequence": 52,
+   "arrival_time": "06:03:09",
+   "departure_time": "07:04:09",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "HIGMOUS",
+   "stop_sequence": 53,
+   "arrival_time": "06:04:00",
+   "departure_time": "07:05:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIV3RDE",
+   "stop_sequence": 54,
+   "arrival_time": "06:05:01",
+   "departure_time": "07:06:01",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIV4THE",
+   "stop_sequence": 55,
+   "arrival_time": "06:05:35",
+   "departure_time": "07:06:46",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIV6THE",
+   "stop_sequence": 56,
+   "arrival_time": "06:06:15",
+   "departure_time": "07:07:16",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVGRANE",
+   "stop_sequence": 57,
+   "arrival_time": "06:06:31",
+   "departure_time": "07:07:41",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVPARE",
+   "stop_sequence": 58,
+   "arrival_time": "06:09:00",
+   "departure_time": "07:09:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVANNE",
+   "stop_sequence": 59,
+   "arrival_time": "06:09:11",
+   "departure_time": "07:09:22",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIV18TE",
+   "stop_sequence": 60,
+   "arrival_time": "06:09:34",
+   "departure_time": "07:09:45",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVCARE",
+   "stop_sequence": 61,
+   "arrival_time": "06:10:09",
+   "departure_time": "07:10:09",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIV22NE",
+   "stop_sequence": 62,
+   "arrival_time": "06:10:26",
+   "departure_time": "07:10:37",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVCHAE",
+   "stop_sequence": 63,
+   "arrival_time": "06:11:00",
+   "departure_time": "07:11:00",
+   "ETA": "10:00:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVWILE",
+   "stop_sequence": 64,
+   "arrival_time": "06:11:20",
+   "departure_time": "07:11:30",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVSTUE",
+   "stop_sequence": 65,
+   "arrival_time": "06:11:04",
+   "departure_time": "07:12:05",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVKELE",
+   "stop_sequence": 66,
+   "arrival_time": "06:12:00",
+   "departure_time": "07:13:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVBERE",
+   "stop_sequence": 67,
+   "arrival_time": "06:12:14",
+   "departure_time": "07:13:25",
+   "ETA": "10:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVBULE",
+   "stop_sequence": 68,
+   "arrival_time": "06:13:18",
+   "departure_time": "07:14:18",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVRHOE",
+   "stop_sequence": 69,
+   "arrival_time": "06:13:29",
+   "departure_time": "07:14:39",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVMEME",
+   "stop_sequence": 70,
+   "arrival_time": "06:14:08",
+   "departure_time": "07:15:08",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVMAYE",
+   "stop_sequence": 71,
+   "arrival_time": "06:15:06",
+   "departure_time": "07:16:07",
+   "ETA": "10:10:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVCOLE",
+   "stop_sequence": 72,
+   "arrival_time": "06:16:00",
+   "departure_time": "07:17:00",
+   "ETA": "10:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVCASE",
+   "stop_sequence": 73,
+   "arrival_time": "06:16:19",
+   "departure_time": "07:17:29",
+   "ETA": "10:11:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVROOE",
+   "stop_sequence": 74,
+   "arrival_time": "06:18:04",
+   "departure_time": "07:18:05",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVCHEE",
+   "stop_sequence": 75,
+   "arrival_time": "06:18:19",
+   "departure_time": "07:18:29",
+   "ETA": "10:01:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVBROE1",
+   "stop_sequence": 76,
+   "arrival_time": "06:18:43",
+   "departure_time": "07:18:54",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVWELE",
+   "stop_sequence": 77,
+   "arrival_time": "06:19:16",
+   "departure_time": "07:19:17",
+   "ETA": "10:00:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVKELE1",
+   "stop_sequence": 78,
+   "arrival_time": "06:19:25",
+   "departure_time": "07:19:36",
+   "ETA": "10:01:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVJAME",
+   "stop_sequence": 79,
+   "arrival_time": "06:10:00",
+   "departure_time": "07:20:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVZETE",
+   "stop_sequence": 80,
+   "arrival_time": "06:10:34",
+   "departure_time": "07:20:45",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVBARE",
+   "stop_sequence": 81,
+   "arrival_time": "06:11:12",
+   "departure_time": "07:21:23",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVCUNE",
+   "stop_sequence": 82,
+   "arrival_time": "06:11:01",
+   "departure_time": "07:22:02",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVCOUE",
+   "stop_sequence": 83,
+   "arrival_time": "06:11:42",
+   "departure_time": "07:22:53",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVBEEE",
+   "stop_sequence": 84,
+   "arrival_time": "06:12:12",
+   "departure_time": "07:23:13",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVVILE",
+   "stop_sequence": 85,
+   "arrival_time": "06:12:25",
+   "departure_time": "07:23:36",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVYEAE",
+   "stop_sequence": 86,
+   "arrival_time": "06:13:11",
+   "departure_time": "07:24:11",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVBURE",
+   "stop_sequence": 87,
+   "arrival_time": "06:13:42",
+   "departure_time": "07:24:53",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVGRAE",
+   "stop_sequence": 88,
+   "arrival_time": "06:14:15",
+   "departure_time": "07:25:26",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVHAME",
+   "stop_sequence": 89,
+   "arrival_time": "06:15:00",
+   "departure_time": "07:26:00",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVSHAE",
+   "stop_sequence": 90,
+   "arrival_time": "06:15:35",
+   "departure_time": "07:26:46",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVLATE",
+   "stop_sequence": 91,
+   "arrival_time": "06:16:16",
+   "departure_time": "07:27:27",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVNOEE",
+   "stop_sequence": 92,
+   "arrival_time": "06:19:21",
+   "departure_time": "07:29:32",
+   "ETA": "11:01:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVLONE",
+   "stop_sequence": 93,
+   "arrival_time": "06:20:00",
+   "departure_time": "07:30:00",
+   "ETA": "11:00:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVBAIE",
+   "stop_sequence": 94,
+   "arrival_time": "06:21:18",
+   "departure_time": "07:31:28",
+   "ETA": "11:01:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVQUAE",
+   "stop_sequence": 95,
+   "arrival_time": "06:21:10",
+   "departure_time": "07:32:10",
+   "ETA": "11:10:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVWALE",
+   "stop_sequence": 96,
+   "arrival_time": "06:21:45",
+   "departure_time": "07:32:56",
+   "ETA": "11:11:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVSARE",
+   "stop_sequence": 97,
+   "arrival_time": "06:22:20",
+   "departure_time": "07:33:30",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "LIVBRIE",
+   "stop_sequence": 98,
+   "arrival_time": "06:23:31",
+   "departure_time": "07:34:41",
+   "ETA": "11:11:00"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "EASOFFE",
+   "stop_sequence": 99,
+   "arrival_time": "06:25:06",
+   "departure_time": "07:36:07",
+   "ETA": "11:10:01"
+ },
+ {
+   "trip_id": 751390,
+   "stop_id": "REYRIDSW",
+   "stop_sequence": 100,
+   "arrival_time": "06:26:00",
+   "departure_time": "07:37:00",
+   "ETA": "11:10:00"
+ }
+]
