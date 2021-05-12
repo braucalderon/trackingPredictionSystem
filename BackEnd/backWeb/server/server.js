@@ -59,6 +59,24 @@ app.get('/timeGetter',(req,res) => {
         });
 });
 
+
+// gets the fare from the database
+app.get('/farePrice',(req,res) => {
+   
+    db.query(
+    // "SELECT * FROM stops LIMIT 0,10",   
+    'SELECT fare_id, price,currency_type,transfer_duration FROM fare_attributes;',
+        (err,result) => {
+            if (err) {
+                console.log(err); 
+            } else {
+                res.json(result); //hold the response from the database i.e. data
+                // console.log(result);
+            }
+        });
+});
+
+
 app.listen(PORT, () => { 
     console.log(`Server up listening on ${PORT}...`);
 });
