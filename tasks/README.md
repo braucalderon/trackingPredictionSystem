@@ -13,6 +13,4 @@
 `Name:`Daniel L, David P`Task:`Testing <br/>
 `Name:`Richard, Engels, Rafael`Task:` BackEnd / firebase database <br/>
 
-## Questions to ask:
 
-<p></p>
