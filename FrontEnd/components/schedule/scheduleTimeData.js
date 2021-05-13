@@ -1,8 +1,9 @@
 const TimeData = [
   {
-    time: "0",
+    time: "Hour",
     value: "0",
   },
+
   {
     time: "1",
     value: "1",
@@ -50,6 +51,6 @@ const TimeData = [
   {
     time: "12",
     value: "12",
-  }
+  },
 ];
 export default TimeData;

@@ -43,17 +43,28 @@
             border-style: outset;
             // border-radius: 1vh;
             padding: 1vh 2vh;
-
             &:hover{cursor: pointer;
             background-color:rgb(108, 122, 161);
             border-style: inset;}
         }
 
-       
-
+        
     }
 
     
+}
+.scheduleDataMap{
+    z-index: 400;
+    position: fixed;
+    right: 0;
+    width: 43vh;
+    margin-top: 1.1vh;
+    margin-right: 1.1vh;
+    height: 13.5vh;
+    background: white;
+    
+    // border: 2px black solid;
+
 }
 
 

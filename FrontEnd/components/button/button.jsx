@@ -7,13 +7,13 @@ import { useHistory } from "react-router-dom";
 const useStyles = makeStyles((theme) => ({
   root: {
     // backgroundColor: 'transparent',
-    padding: '.5vh',
-    color: 'secondary',
-    variant: 'outlined',
-    '&:hover':{
-      border: '3px solid black',
-      backgroundColor: 'transparent'
-    }
+    padding: ".5vh",
+    color: "secondary",
+    variant: "outlined",
+    "&:hover": {
+      border: "3px solid black",
+      backgroundColor: "transparent",
+    },
   },
 }));
 
@@ -27,7 +27,14 @@ const CustomButton = (props) => {
     history.push(props.route);
   };
 
-  return <Button className={classes.root}
-        onClick={onClickHandler}>{props.name}</Button>;
+  return (
+    <Button
+      variant='contained'
+      
+      onClick={onClickHandler}
+    >
+      {props.name}
+    </Button>
+  );
 };
 export default CustomButton;
