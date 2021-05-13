@@ -3,11 +3,10 @@ import "./modal.scss";
 
 // -------------------------------------------------
 const Modal = (props) => {
-  // console.log(props);
-
+  
   return (
     <div>
-      <div className="modal">{props.children}</div>
+      <div className={props.styleName}>{props.children}</div>
     </div>
   );
 };

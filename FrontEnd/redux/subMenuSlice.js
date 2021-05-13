@@ -5,6 +5,7 @@ export const subMenuSlice = createSlice({
     initialState: {
         value: null,
         booleanState: false,
+        errorMessage: true,
         
     },
     reducers: {
@@ -16,11 +17,14 @@ export const subMenuSlice = createSlice({
         onClickStateBoolean: state => {
             state.booleanState = false;
         },
-        
-        
+        onClickStateErrorButton: (state) => {
+            state.errorMessage = false;
+           
+        }
+     
     }
 });
-export const {onClickStateBoolean, onClickState} = subMenuSlice.actions;
+export const { onClickStateBoolean, onClickState, onClickStateErrorButton } = subMenuSlice.actions;
 
 export const selectChange = state => state.subMenu.value;
 export const selectBoolean = state => state.subMenu.booleanState;

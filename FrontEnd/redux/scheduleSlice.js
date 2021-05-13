@@ -7,6 +7,7 @@ const scheduleSlice = createSlice({
     lon: 38.8895,
     zoom: 8,
     instruction: true,
+   
   },
   reducers: {
     onClickCoordinates: (state, action) => {
@@ -25,7 +26,7 @@ const scheduleSlice = createSlice({
     },
     onClickShowInstructions: (state) => {
       state.instruction = true;
-    },
+    }
   },
 });
 

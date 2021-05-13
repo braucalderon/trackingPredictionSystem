@@ -1,43 +1,57 @@
 
-.backdrop {
-    display: flex;
-    flex-flow: column;
-    position: absolute;
-    // align-items: center;
-    padding: 5px 5px;
-    width: 100%;
-    z-index: 500;
-    background-color: white;
-    box-shadow: 1px 1px 2px rgb(110, 103, 103);
-    border-radius: 1vh;
-    // margin: 1vh 1vh;
-    // left: 5%;
-    // right: 5%;
-    // top: 1%;
-    box-sizing: border-box;
-    transition: all 0.3s ease-out;
-   
-}
-.modal {
+
+.modalSchedule {
     display: flex;
     flex-flow: column;
     width: 37%;
-    height: 75vh;
+    height: auto;
     // height: 70vh;
     background-color: white;
     padding: 1vh;
-    margin: 1vh;
     border-radius: 1vh;
 }
-@media (min-width: 250px) and (max-width: 500px ){
-    .modal{
+.modalTrips{
+    display: flex;
+    flex-flow: column;
+    width: 70%;
+    height: auto;
+    // height: 70vh;
+    background-color: white;
+    padding: 1vh;
+    border-radius: 1vh;
+}
+
+.modalFares{
+    height: auto;
+    line-height: 2;
+    background-color: white;
+    width: 55%;
+    padding: 1vh;
+    border-radius: 1vh;
+}
+@media (min-width: 200px) and (max-width: 500px){
+    .modalSchedule{
         width: 90%;
         height: 68vh;
         
     }
+    .modalTrips{
+        width: 100%;
+       
+       
+    }
+    .modalFares{
+        width: 95%;
+       
+    }
 }
-@media (min-width: 500px) and (max-width: 770px ){
-    .modal{
+@media (min-width: 500px) and (max-width: 770px){
+    .modalSchedule{
         width: 57%;
     }
+    .modalFares{
+        width: 75%;
+       
+    }
+    
 }

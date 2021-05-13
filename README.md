@@ -4,6 +4,6 @@
 <li> <a href="https://www.ohiotransitsystem.com/" target="_blank">Click Here to Visit the Website</li>
 
 ---
-![](logo.png)
+![](logo_transparent.png)
 
 
